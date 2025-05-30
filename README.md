@@ -1,54 +1,100 @@
-# Welcome to your Lovable project
+# 🚀 Shortcut Vault App
 
-## Project info
+> **Interactive keyboard shortcuts vault for developers**
 
-**URL**: https://lovable.dev/projects/a225e52e-842c-479f-8215-1f139bb2527d
+A beautiful, modern React application that provides quick access to keyboard shortcuts for 11 popular development and productivity tools.
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+- 🎯 **11 Popular Tools**: VSCode, Figma, Notion, Chrome, Photoshop, Slack, Discord, GitHub, Spotify, Excel, IntelliJ IDEA
+- ⌨️ **500+ Shortcuts**: Comprehensive collection of keyboard shortcuts
+- 🌐 **Bilingual Support**: Korean and English descriptions
+- 📱 **Responsive Design**: Works perfectly on desktop and mobile
+- 🔍 **Smart Search**: Find shortcuts quickly with instant search
+- 🏷️ **Category Filtering**: Organize by tool, platform, and category
+- ⭐ **Bookmarks**: Save your favorite shortcuts
+- 📄 **PDF Export**: Export shortcuts as PDF documents
+- 🎨 **Beautiful UI**: Modern design with gradient colors and icons
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a225e52e-842c-479f-8215-1f139bb2527d) and start prompting.
+- **React 18** with TypeScript
+- **Vite** for fast development
+- **Tailwind CSS** for styling
+- **Lucide React** for icons
+- **Shadcn/ui** components
+- **Bun** package manager
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Quick Start
 
-**Use your preferred IDE**
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/shortcut-vault-app.git
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+# Navigate to project directory
+cd shortcut-vault-app
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# Install dependencies
+npm install
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 📦 Included Tools
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+| Tool | Shortcuts | Platform | Category |
+|------|-----------|----------|----------|
+| 🎨 **Figma** | 30+ | Mac/Windows | Design |
+| 💻 **VSCode** | 50+ | Mac/Windows | Development |
+| 📝 **Notion** | 40+ | Mac/Windows | Productivity |
+| 🌐 **Chrome** | 35+ | Mac/Windows | Browser |
+| 🖼️ **Photoshop** | 45+ | Mac/Windows | Design |
+| 💬 **Slack** | 30+ | Mac/Windows | Communication |
+| 🎮 **Discord** | 30+ | Mac/Windows | Communication |
+| 🐙 **GitHub** | 30+ | Mac/Windows | Development |
+| 🎵 **Spotify** | 30+ | Mac/Windows | Media |
+| 📊 **Excel** | 30+ | Mac/Windows | Productivity |
+| ⚡ **IntelliJ IDEA** | 100+ | Mac/Windows | Development |
 
-**Use GitHub Codespaces**
+## 🌟 Screenshots
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+*Coming soon - beautiful interface screenshots*
+
+## 🚀 Deployment
+
+This app is optimized for deployment on:
+- **Netlify** (recommended)
+- **Vercel**
+- **GitHub Pages**
+
+### Deploy to Netlify
+
+1. Build the project: `npm run build`
+2. Deploy the `dist` folder to Netlify
+3. Enjoy your live Shortcut Vault!
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to:
+- Add new tools and shortcuts
+- Improve translations
+- Enhance UI/UX
+- Fix bugs and issues
+
+## 📄 License
+
+MIT License - feel free to use this project for personal or commercial purposes.
+
+## 🙏 Acknowledgments
+
+- Built with ❤️ for the developer community
+- Icons by [Lucide](https://lucide.dev)
+- UI components by [Shadcn/ui](https://ui.shadcn.com)
+
+---
+
+⭐ **Star this repo if it helps you!**
 
 ## What technologies are used for this project?
 
