@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Z",
+    "description": "Undo",
+    "category": "Editing"
+  },
+  {
+    "id": 2,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Z",
+    "description": "Undo",
+    "category": "Editing"
+  },
+  {
+    "id": 3,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + J",
+    "description": "Duplicate layer",
+    "category": "Editing"
+  },
+  {
+    "id": 4,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + J",
+    "description": "Duplicate layer",
+    "category": "Editing"
+  },
+  {
+    "id": 5,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + N",
+    "description": "New layer",
+    "category": "Editing"
+  },
+  {
+    "id": 6,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + N",
+    "description": "New layer",
+    "category": "Editing"
+  },
+  {
+    "id": 7,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "B",
+    "description": "Brush tool",
+    "category": "Tools"
+  },
+  {
+    "id": 8,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "B",
+    "description": "Brush tool",
+    "category": "Tools"
+  },
+  {
+    "id": 9,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "E",
+    "description": "Eraser tool",
+    "category": "Tools"
+  },
+  {
+    "id": 10,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "E",
+    "description": "Eraser tool",
+    "category": "Tools"
+  }
+]

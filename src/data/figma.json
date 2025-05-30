@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + D",
+    "description": "선택 항목 복제 (Duplicate selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 2,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + D",
+    "description": "선택 항목 복제 (Duplicate selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 3,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + G",
+    "description": "그룹 만들기 (Group selection)",
+    "category": "Organization"
+  },
+  {
+    "id": 4,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + G",
+    "description": "그룹 만들기 (Group selection)",
+    "category": "Organization"
+  },
+  {
+    "id": 5,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + G",
+    "description": "그룹 해제 (Ungroup selection)",
+    "category": "Organization"
+  },
+  {
+    "id": 6,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + G",
+    "description": "그룹 해제 (Ungroup selection)",
+    "category": "Organization"
+  },
+  {
+    "id": 7,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "F",
+    "description": "프레임 도구 (Frame tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 8,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "F",
+    "description": "프레임 도구 (Frame tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 9,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "R",
+    "description": "사각형 도구 (Rectangle tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 10,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "R",
+    "description": "사각형 도구 (Rectangle tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 11,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "O",
+    "description": "원형 도구 (Ellipse tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 12,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "O",
+    "description": "원형 도구 (Ellipse tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 13,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "T",
+    "description": "텍스트 도구 (Text tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 14,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "T",
+    "description": "텍스트 도구 (Text tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 15,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "P",
+    "description": "펜 도구 (Pen tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 16,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "P",
+    "description": "펜 도구 (Pen tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 17,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "L",
+    "description": "선 도구 (Line tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 18,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "L",
+    "description": "선 도구 (Line tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 19,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "V",
+    "description": "이동 도구 (Move tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 20,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "V",
+    "description": "이동 도구 (Move tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 21,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "K",
+    "description": "배율 도구 (Scale tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 22,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "K",
+    "description": "배율 도구 (Scale tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 23,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Z",
+    "description": "실행 취소 (Undo)",
+    "category": "Editing"
+  },
+  {
+    "id": 24,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Z",
+    "description": "실행 취소 (Undo)",
+    "category": "Editing"
+  },
+  {
+    "id": 25,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + Z",
+    "description": "다시 실행 (Redo)",
+    "category": "Editing"
+  },
+  {
+    "id": 26,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Y",
+    "description": "다시 실행 (Redo)",
+    "category": "Editing"
+  },
+  {
+    "id": 27,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + C",
+    "description": "복사 (Copy)",
+    "category": "Editing"
+  },
+  {
+    "id": 28,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + C",
+    "description": "복사 (Copy)",
+    "category": "Editing"
+  },
+  {
+    "id": 29,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + V",
+    "description": "붙여넣기 (Paste)",
+    "category": "Editing"
+  },
+  {
+    "id": 30,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + V",
+    "description": "붙여넣기 (Paste)",
+    "category": "Editing"
+  },
+  {
+    "id": 31,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + X",
+    "description": "잘라내기 (Cut)",
+    "category": "Editing"
+  },
+  {
+    "id": 32,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + X",
+    "description": "잘라내기 (Cut)",
+    "category": "Editing"
+  },
+  {
+    "id": 33,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Delete",
+    "description": "선택 항목 삭제 (Delete selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 34,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Delete",
+    "description": "선택 항목 삭제 (Delete selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 35,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + A",
+    "description": "모두 선택 (Select all)",
+    "category": "Selection"
+  },
+  {
+    "id": 36,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + A",
+    "description": "모두 선택 (Select all)",
+    "category": "Selection"
+  },
+  {
+    "id": 37,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Shift + A",
+    "description": "자동 레이아웃 (Auto layout)",
+    "category": "Layout"
+  },
+  {
+    "id": 38,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + A",
+    "description": "자동 레이아웃 (Auto layout)",
+    "category": "Layout"
+  },
+  {
+    "id": 39,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + K",
+    "description": "컴포넌트 만들기 (Create component)",
+    "category": "Components"
+  },
+  {
+    "id": 40,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + K",
+    "description": "컴포넌트 만들기 (Create component)",
+    "category": "Components"
+  },
+  {
+    "id": 41,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Shift + P",
+    "description": "연필 도구 (Pencil tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 42,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + P",
+    "description": "연필 도구 (Pencil tool)",
+    "category": "Tools"
+  },
+  {
+    "id": 43,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + E",
+    "description": "내보내기/저장 (Export/Save)",
+    "category": "File"
+  },
+  {
+    "id": 44,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + E",
+    "description": "내보내기/저장 (Export/Save)",
+    "category": "File"
+  },
+  {
+    "id": 45,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + S",
+    "description": "히스토리 저장 (Save to Version History)",
+    "category": "File"
+  },
+  {
+    "id": 46,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + S",
+    "description": "히스토리 저장 (Save to Version History)",
+    "category": "File"
+  },
+  {
+    "id": 47,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + K",
+    "description": "이미지 삽입 (Place Image)",
+    "category": "File"
+  },
+  {
+    "id": 48,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + K",
+    "description": "이미지 삽입 (Place Image)",
+    "category": "File"
+  },
+  {
+    "id": 49,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + V",
+    "description": "선택 위에 붙여넣기 (Paste Over Selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 50,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + V",
+    "description": "선택 위에 붙여넣기 (Paste Over Selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 51,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Option + Drag",
+    "description": "중심점 중심으로 크기 조절 (Resize from Center)",
+    "category": "Editing"
+  },
+  {
+    "id": 52,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Alt + Drag",
+    "description": "중심점 중심으로 크기 조절 (Resize from Center)",
+    "category": "Editing"
+  },
+  {
+    "id": 53,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Option + Drag",
+    "description": "선택 복사 (Duplicate Selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 54,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Alt + Drag",
+    "description": "선택 복사 (Duplicate Selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 55,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + C",
+    "description": "속성 복사 (Copy Properties)",
+    "category": "Editing"
+  },
+  {
+    "id": 56,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + C",
+    "description": "속성 복사 (Copy Properties)",
+    "category": "Editing"
+  },
+  {
+    "id": 57,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + V",
+    "description": "속성 붙여넣기 (Paste Properties)",
+    "category": "Editing"
+  },
+  {
+    "id": 58,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + V",
+    "description": "속성 붙여넣기 (Paste Properties)",
+    "category": "Editing"
+  },
+  {
+    "id": 59,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Right Click",
+    "description": "레이어 선택 (Select Layer Menu)",
+    "category": "Selection"
+  },
+  {
+    "id": 60,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Right Click",
+    "description": "레이어 선택 (Select Layer Menu)",
+    "category": "Selection"
+  },
+  {
+    "id": 61,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Click",
+    "description": "직접 선택 (Deep Select)",
+    "category": "Selection"
+  },
+  {
+    "id": 62,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Click",
+    "description": "직접 선택 (Deep Select)",
+    "category": "Selection"
+  },
+  {
+    "id": 63,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Space + Drag",
+    "description": "화면 이동 (Pan)",
+    "category": "View"
+  },
+  {
+    "id": 64,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Space + Drag",
+    "description": "화면 이동 (Pan)",
+    "category": "View"
+  },
+  {
+    "id": 65,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + +",
+    "description": "확대 (Zoom In)",
+    "category": "View"
+  },
+  {
+    "id": 66,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + +",
+    "description": "확대 (Zoom In)",
+    "category": "View"
+  },
+  {
+    "id": 67,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + -",
+    "description": "축소 (Zoom Out)",
+    "category": "View"
+  },
+  {
+    "id": 68,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + -",
+    "description": "축소 (Zoom Out)",
+    "category": "View"
+  },
+  {
+    "id": 69,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Shift + 1",
+    "description": "화면에 맞추기 (Zoom to Fit)",
+    "category": "View"
+  },
+  {
+    "id": 70,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + 1",
+    "description": "화면에 맞추기 (Zoom to Fit)",
+    "category": "View"
+  },
+  {
+    "id": 71,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Shift + 0",
+    "description": "100%로 맞추기 (Zoom to 100%)",
+    "category": "View"
+  },
+  {
+    "id": 72,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + 0",
+    "description": "100%로 맞추기 (Zoom to 100%)",
+    "category": "View"
+  },
+  {
+    "id": 73,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Shift + R",
+    "description": "눈금자 표시/숨기기 (Show/Hide Rulers)",
+    "category": "View"
+  },
+  {
+    "id": 74,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + R",
+    "description": "눈금자 표시/숨기기 (Show/Hide Rulers)",
+    "category": "View"
+  },
+  {
+    "id": 75,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + 3",
+    "description": "외곽선으로 보기 (Show Outlines)",
+    "category": "View"
+  },
+  {
+    "id": 76,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + 3",
+    "description": "외곽선으로 보기 (Show Outlines)",
+    "category": "View"
+  },
+  {
+    "id": 77,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + Y",
+    "description": "픽셀 모드 프리뷰 (Pixel Preview)",
+    "category": "View"
+  },
+  {
+    "id": 78,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Y",
+    "description": "픽셀 모드 프리뷰 (Pixel Preview)",
+    "category": "View"
+  },
+  {
+    "id": 79,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Option + Shift + A",
+    "description": "오토레이아웃 해제 (Remove Auto Layout)",
+    "category": "Arrange"
+  },
+  {
+    "id": 80,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + A",
+    "description": "오토레이아웃 해제 (Remove Auto Layout)",
+    "category": "Arrange"
+  },
+  {
+    "id": 81,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ]",
+    "description": "앞으로 가져오기 (Bring Forward)",
+    "category": "Arrange"
+  },
+  {
+    "id": 82,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ]",
+    "description": "앞으로 가져오기 (Bring Forward)",
+    "category": "Arrange"
+  },
+  {
+    "id": 83,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + [",
+    "description": "뒤로 보내기 (Send Backward)",
+    "category": "Arrange"
+  },
+  {
+    "id": 84,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + [",
+    "description": "뒤로 보내기 (Send Backward)",
+    "category": "Arrange"
+  },
+  {
+    "id": 85,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + ]",
+    "description": "맨 앞으로 가져오기 (Bring to Front)",
+    "category": "Arrange"
+  },
+  {
+    "id": 86,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + ]",
+    "description": "맨 앞으로 가져오기 (Bring to Front)",
+    "category": "Arrange"
+  },
+  {
+    "id": 87,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + [",
+    "description": "맨 뒤로 보내기 (Send to Back)",
+    "category": "Arrange"
+  },
+  {
+    "id": 88,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + [",
+    "description": "맨 뒤로 보내기 (Send to Back)",
+    "category": "Arrange"
+  },
+  {
+    "id": 89,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "C",
+    "description": "코멘트 추가 또는 보기 (Add/Show Comments)",
+    "category": "Tools"
+  },
+  {
+    "id": 90,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "C",
+    "description": "코멘트 추가 또는 보기 (Add/Show Comments)",
+    "category": "Tools"
+  },
+  {
+    "id": 91,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "S",
+    "description": "슬라이스 (Slice)",
+    "category": "Tools"
+  },
+  {
+    "id": 92,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "S",
+    "description": "슬라이스 (Slice)",
+    "category": "Tools"
+  },
+  {
+    "id": 93,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "I",
+    "description": "스포이드 툴 (Pick Color)",
+    "category": "Tools"
+  },
+  {
+    "id": 94,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "I",
+    "description": "스포이드 툴 (Pick Color)",
+    "category": "Tools"
+  },
+  {
+    "id": 95,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + U",
+    "description": "밑줄 (Underline)",
+    "category": "Text"
+  },
+  {
+    "id": 96,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + U",
+    "description": "밑줄 (Underline)",
+    "category": "Text"
+  },
+  {
+    "id": 97,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + H",
+    "description": "숨기기/나타내기 (Show/Hide Selection)",
+    "category": "Object"
+  },
+  {
+    "id": 98,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + H",
+    "description": "숨기기/나타내기 (Show/Hide Selection)",
+    "category": "Object"
+  },
+  {
+    "id": 99,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + L",
+    "description": "잠금/잠금해제 (Lock/Unlock Selection)",
+    "category": "Object"
+  },
+  {
+    "id": 100,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "잠금/잠금해제 (Lock/Unlock Selection)",
+    "category": "Object"
+  },
+  {
+    "id": 101,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + Shift + L",
+    "description": "전체 잠금 해제 (Unlock All Objects)",
+    "category": "Object"
+  },
+  {
+    "id": 102,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Shift + L",
+    "description": "전체 잠금 해제 (Unlock All Objects)",
+    "category": "Object"
+  },
+  {
+    "id": 103,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + E",
+    "description": "병합 (Flatten Selection)",
+    "category": "Object"
+  },
+  {
+    "id": 104,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "병합 (Flatten Selection)",
+    "category": "Object"
+  },
+  {
+    "id": 105,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + O",
+    "description": "윤곽선으로 변경 (Outline Stroke)",
+    "category": "Object"
+  },
+  {
+    "id": 106,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + O",
+    "description": "윤곽선으로 변경 (Outline Stroke)",
+    "category": "Object"
+  },
+  {
+    "id": 107,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Option + Double Click",
+    "description": "이미지 자르기 (Crop Image)",
+    "category": "Object"
+  },
+  {
+    "id": 108,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Alt + Double Click",
+    "description": "이미지 자르기 (Crop Image)",
+    "category": "Object"
+  },
+  {
+    "id": 109,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + B",
+    "description": "인스턴스 분리하기 (Detach Instance)",
+    "category": "Components"
+  },
+  {
+    "id": 110,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + B",
+    "description": "인스턴스 분리하기 (Detach Instance)",
+    "category": "Components"
+  },
+  {
+    "id": 111,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + /",
+    "description": "검색 (Search)",
+    "category": "Navigation"
+  },
+  {
+    "id": 112,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + /",
+    "description": "검색 (Search)",
+    "category": "Navigation"
+  },
+  {
+    "id": 113,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + /",
+    "description": "단축키 보기 (Keyboard Shortcuts)",
+    "category": "Navigation"
+  },
+  {
+    "id": 114,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + /",
+    "description": "단축키 보기 (Keyboard Shortcuts)",
+    "category": "Navigation"
+  }
+]

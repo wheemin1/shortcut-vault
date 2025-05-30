@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "Create new page",
+    "category": "Navigation"
+  },
+  {
+    "id": 2,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "Create new page",
+    "category": "Navigation"
+  },
+  {
+    "id": 3,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + E",
+    "description": "Edit or stop editing",
+    "category": "Editing"
+  },
+  {
+    "id": 4,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "Edit or stop editing",
+    "category": "Editing"
+  },
+  {
+    "id": 5,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + L",
+    "description": "Toggle bullet list",
+    "category": "Formatting"
+  },
+  {
+    "id": 6,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "Toggle bullet list",
+    "category": "Formatting"
+  },
+  {
+    "id": 7,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + N",
+    "description": "Toggle numbered list",
+    "category": "Formatting"
+  },
+  {
+    "id": 8,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + N",
+    "description": "Toggle numbered list",
+    "category": "Formatting"
+  },
+  {
+    "id": 9,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "Bold text",
+    "category": "Formatting"
+  },
+  {
+    "id": 10,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "Bold text",
+    "category": "Formatting"
+  },
+  {
+    "id": 11,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "/",
+    "description": "블록 유형 선택 (Block type selector)",
+    "category": "Navigation"
+  },
+  {
+    "id": 12,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "굵게 표시 (Bold text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 13,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + U",
+    "description": "밑줄 표시 (Underline text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 14,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + I",
+    "description": "기울임꼴 (Italic text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 15,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + H",
+    "description": "서식 적용 (Apply formatting)",
+    "category": "Formatting"
+  },
+  {
+    "id": 16,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Tab",
+    "description": "들여쓰기 (Indent)",
+    "category": "Formatting"
+  },
+  {
+    "id": 17,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "인라인 코드 (Inline code)",
+    "category": "Formatting"
+  },
+  {
+    "id": 18,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + T",
+    "description": "모든 토글 열기/닫기 (Toggle all)",
+    "category": "Navigation"
+  },
+  {
+    "id": 19,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Escape",
+    "description": "블록 선택 (Select block)",
+    "category": "Selection"
+  },
+  {
+    "id": 20,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + D",
+    "description": "블록 복사 (Duplicate block)",
+    "category": "Editing"
+  },
+  {
+    "id": 21,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "새 페이지 만들기 (New page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 22,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + [",
+    "description": "뒤로 가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 23,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ]",
+    "description": "앞으로 가기 (Go forward)",
+    "category": "Navigation"
+  },
+  {
+    "id": 24,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + \\",
+    "description": "사이드바 토글 (Toggle sidebar)",
+    "category": "View"
+  },
+  {
+    "id": 25,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + P",
+    "description": "페이지 검색 (Search pages)",
+    "category": "Search"
+  },
+  {
+    "id": 26,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "/",
+    "description": "블록 유형 선택 (Block type selector)",
+    "category": "Navigation"
+  },
+  {
+    "id": 27,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "굵게 표시 (Bold text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 28,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + U",
+    "description": "밑줄 표시 (Underline text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 29,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + I",
+    "description": "기울임꼴 (Italic text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 30,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + H",
+    "description": "서식 적용 (Apply formatting)",
+    "category": "Formatting"
+  },
+  {
+    "id": 31,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Tab",
+    "description": "들여쓰기 (Indent)",
+    "category": "Formatting"
+  },
+  {
+    "id": 32,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + E",
+    "description": "인라인 코드 (Inline code)",
+    "category": "Formatting"
+  },
+  {
+    "id": 33,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + T",
+    "description": "모든 토글 열기/닫기 (Toggle all)",
+    "category": "Navigation"
+  },
+  {
+    "id": 34,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Escape",
+    "description": "블록 선택 (Select block)",
+    "category": "Selection"
+  },
+  {
+    "id": 35,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + D",
+    "description": "블록 복사 (Duplicate block)",
+    "category": "Editing"
+  },
+  {
+    "id": 36,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "새 페이지 만들기 (New page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 37,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + [",
+    "description": "뒤로 가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 38,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ]",
+    "description": "앞으로 가기 (Go forward)",
+    "category": "Navigation"
+  },
+  {
+    "id": 39,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + \\",
+    "description": "사이드바 토글 (Toggle sidebar)",
+    "category": "View"
+  },
+  {
+    "id": 40,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + P",
+    "description": "페이지 검색 (Search pages)",
+    "category": "Search"
+  }
+]

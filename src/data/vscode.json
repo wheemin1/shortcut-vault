@@ -1,0 +1,538 @@
+[
+  {
+    "id": 1,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + P",
+    "description": "빠른 파일 열기 (Quick open file)",
+    "category": "Navigation"
+  },
+  {
+    "id": 2,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + P",
+    "description": "빠른 파일 열기 (Quick open file)",
+    "category": "Navigation"
+  },
+  {
+    "id": 3,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + P",
+    "description": "명령 팔레트 (Command palette)",
+    "category": "Navigation"
+  },
+  {
+    "id": 4,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + P",
+    "description": "명령 팔레트 (Command palette)",
+    "category": "Navigation"
+  },
+  {
+    "id": 5,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + /",
+    "description": "줄 주석 토글 (Toggle line comment)",
+    "category": "Editing"
+  },
+  {
+    "id": 6,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + /",
+    "description": "줄 주석 토글 (Toggle line comment)",
+    "category": "Editing"
+  },
+  {
+    "id": 7,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + D",
+    "description": "Add selection to next find match",
+    "category": "Editing"
+  },
+  {
+    "id": 8,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + D",
+    "description": "Add selection to next find match",
+    "category": "Editing"
+  },
+  {
+    "id": 9,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + K",
+    "description": "Delete line",
+    "category": "Editing"
+  },
+  {
+    "id": 10,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + K",
+    "description": "Delete line",
+    "category": "Editing"
+  },
+  {
+    "id": 11,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + Enter",
+    "description": "Insert line above",
+    "category": "Editing"
+  },
+  {
+    "id": 12,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + Enter",
+    "description": "Insert line above",
+    "category": "Editing"
+  },
+  {
+    "id": 13,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + L",
+    "description": "Select all occurrences of find match",
+    "category": "Editing"
+  },
+  {
+    "id": 14,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "Select all occurrences of find match",
+    "category": "Editing"
+  },
+  {
+    "id": 15,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + `",
+    "description": "Show integrated terminal",
+    "category": "Navigation"
+  },
+  {
+    "id": 16,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + `",
+    "description": "Show integrated terminal",
+    "category": "Navigation"
+  },
+  {
+    "id": 17,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + /",
+    "description": "한 줄 주석 토글 (Toggle line comment)",
+    "category": "Editing"
+  },
+  {
+    "id": 18,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "텍스트 찾기 (Find text)",
+    "category": "Search"
+  },
+  {
+    "id": 19,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + H",
+    "description": "텍스트 바꾸기 (Replace text)",
+    "category": "Search"
+  },
+  {
+    "id": 20,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ,",
+    "description": "설정창 열기 (Open settings)",
+    "category": "Navigation"
+  },
+  {
+    "id": 21,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + `",
+    "description": "터미널 열기/닫기 (Open/close terminal)",
+    "category": "Navigation"
+  },
+  {
+    "id": 22,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "탐색기 창 토글 (Toggle sidebar)",
+    "category": "View"
+  },
+  {
+    "id": 23,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + +",
+    "description": "폰트 크기 확대 (Zoom in)",
+    "category": "View"
+  },
+  {
+    "id": 24,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + -",
+    "description": "폰트 크기 축소 (Zoom out)",
+    "category": "View"
+  },
+  {
+    "id": 25,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 1",
+    "description": "첫 번째 에디터 포커스 (Focus first editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 26,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 2",
+    "description": "두 번째 에디터 포커스 (Focus second editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 27,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Page Up",
+    "description": "이전 탭으로 이동 (Previous tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 28,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Page Down",
+    "description": "다음 탭으로 이동 (Next tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 29,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Shift + Alt + F",
+    "description": "코드 자동 정렬 (Format document)",
+    "category": "Formatting"
+  },
+  {
+    "id": 30,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + G",
+    "description": "특정 라인으로 이동 (Go to line)",
+    "category": "Navigation"
+  },
+  {
+    "id": 31,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "F12",
+    "description": "정의로 이동 (Go to definition)",
+    "category": "Navigation"
+  },
+  {
+    "id": 32,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + F12",
+    "description": "정의 미리보기 (Peek definition)",
+    "category": "Navigation"
+  },
+  {
+    "id": 33,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Shift + Alt + Up",
+    "description": "라인 위로 복사 (Copy line up)",
+    "category": "Editing"
+  },
+  {
+    "id": 34,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Shift + Alt + Down",
+    "description": "라인 아래로 복사 (Copy line down)",
+    "category": "Editing"
+  },
+  {
+    "id": 35,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + Up",
+    "description": "라인 위로 이동 (Move line up)",
+    "category": "Editing"
+  },
+  {
+    "id": 36,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + Down",
+    "description": "라인 아래로 이동 (Move line down)",
+    "category": "Editing"
+  },
+  {
+    "id": 37,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + K",
+    "description": "라인 삭제 (Delete line)",
+    "category": "Editing"
+  },
+  {
+    "id": 38,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + L",
+    "description": "라인 선택 (Select line)",
+    "category": "Selection"
+  },
+  {
+    "id": 39,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "같은 단어 모두 선택 (Select all occurrences)",
+    "category": "Selection"
+  },
+  {
+    "id": 40,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "F2",
+    "description": "심볼 이름 바꾸기 (Rename symbol)",
+    "category": "Editing"
+  },
+  {
+    "id": 41,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + Click",
+    "description": "멀티 커서 (Multi cursor)",
+    "category": "Selection"
+  },
+  {
+    "id": 42,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Up",
+    "description": "위쪽 멀티 커서 (Multi cursor up)",
+    "category": "Selection"
+  },
+  {
+    "id": 43,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Down",
+    "description": "아래쪽 멀티 커서 (Multi cursor down)",
+    "category": "Selection"
+  },
+  {
+    "id": 44,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Shift + Alt + I",
+    "description": "선택된 줄 끝에 커서 생성 (Insert cursor at end of lines)",
+    "category": "Selection"
+  },
+  {
+    "id": 45,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + .",
+    "description": "빠른 수정 (Quick fix)",
+    "category": "Editing"
+  },
+  {
+    "id": 46,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + A",
+    "description": "블록 주석 토글 (Toggle block comment)",
+    "category": "Editing"
+  },
+  {
+    "id": 47,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + /",
+    "description": "한 줄 주석 토글 (Toggle line comment)",
+    "category": "Editing"
+  },
+  {
+    "id": 48,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "텍스트 찾기 (Find text)",
+    "category": "Search"
+  },
+  {
+    "id": 49,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + H",
+    "description": "텍스트 바꾸기 (Replace text)",
+    "category": "Search"
+  },
+  {
+    "id": 50,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ,",
+    "description": "설정창 열기 (Open settings)",
+    "category": "Navigation"
+  },
+  {
+    "id": 51,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + `",
+    "description": "터미널 열기/닫기 (Open/close terminal)",
+    "category": "Navigation"
+  },
+  {
+    "id": 52,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "탐색기 창 토글 (Toggle sidebar)",
+    "category": "View"
+  },
+  {
+    "id": 53,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + +",
+    "description": "폰트 크기 확대 (Zoom in)",
+    "category": "View"
+  },
+  {
+    "id": 54,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + -",
+    "description": "폰트 크기 축소 (Zoom out)",
+    "category": "View"
+  },
+  {
+    "id": 55,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 1",
+    "description": "첫 번째 에디터 포커스 (Focus first editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 56,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 2",
+    "description": "두 번째 에디터 포커스 (Focus second editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 57,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Shift + Option + F",
+    "description": "코드 자동 정렬 (Format document)",
+    "category": "Formatting"
+  },
+  {
+    "id": 58,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Ctrl + G",
+    "description": "특정 라인으로 이동 (Go to line)",
+    "category": "Navigation"
+  },
+  {
+    "id": 59,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Shift + Option + Up",
+    "description": "라인 위로 복사 (Copy line up)",
+    "category": "Editing"
+  },
+  {
+    "id": 60,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Shift + Option + Down",
+    "description": "라인 아래로 복사 (Copy line down)",
+    "category": "Editing"
+  },
+  {
+    "id": 61,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Option + Up",
+    "description": "라인 위로 이동 (Move line up)",
+    "category": "Editing"
+  },
+  {
+    "id": 62,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Option + Down",
+    "description": "라인 아래로 이동 (Move line down)",
+    "category": "Editing"
+  },
+  {
+    "id": 63,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + K",
+    "description": "라인 삭제 (Delete line)",
+    "category": "Editing"
+  },
+  {
+    "id": 64,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + L",
+    "description": "라인 선택 (Select line)",
+    "category": "Selection"
+  },
+  {
+    "id": 65,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Option + Click",
+    "description": "멀티 커서 (Multi cursor)",
+    "category": "Selection"
+  },
+  {
+    "id": 66,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + .",
+    "description": "빠른 수정 (Quick fix)",
+    "category": "Editing"
+  },
+  {
+    "id": 67,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Option + Shift + A",
+    "description": "블록 주석 토글 (Toggle block comment)",
+    "category": "Editing"
+  }
+]

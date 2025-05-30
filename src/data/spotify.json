@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Space",
+    "description": "재생/일시정지 (Play/Pause)",
+    "category": "Playback"
+  },
+  {
+    "id": 2,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Space",
+    "description": "재생/일시정지 (Play/Pause)",
+    "category": "Playback"
+  },
+  {
+    "id": 3,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + →",
+    "description": "다음 곡 (Next Track)",
+    "category": "Playback"
+  },
+  {
+    "id": 4,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + →",
+    "description": "다음 곡 (Next Track)",
+    "category": "Playback"
+  },
+  {
+    "id": 5,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ←",
+    "description": "이전 곡 (Previous Track)",
+    "category": "Playback"
+  },
+  {
+    "id": 6,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ←",
+    "description": "이전 곡 (Previous Track)",
+    "category": "Playback"
+  },
+  {
+    "id": 7,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ↑",
+    "description": "볼륨 올리기 (Volume Up)",
+    "category": "Volume"
+  },
+  {
+    "id": 8,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ↑",
+    "description": "볼륨 올리기 (Volume Up)",
+    "category": "Volume"
+  },
+  {
+    "id": 9,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ↓",
+    "description": "볼륨 내리기 (Volume Down)",
+    "category": "Volume"
+  },
+  {
+    "id": 10,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ↓",
+    "description": "볼륨 내리기 (Volume Down)",
+    "category": "Volume"
+  },
+  {
+    "id": 11,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + ↓",
+    "description": "음소거 (Mute)",
+    "category": "Volume"
+  },
+  {
+    "id": 12,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + ↓",
+    "description": "음소거 (Mute)",
+    "category": "Volume"
+  },
+  {
+    "id": 13,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + L",
+    "description": "좋아요 (Like Song)",
+    "category": "Actions"
+  },
+  {
+    "id": 14,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + L",
+    "description": "좋아요 (Like Song)",
+    "category": "Actions"
+  },
+  {
+    "id": 15,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "검색 (Search)",
+    "category": "Navigation"
+  },
+  {
+    "id": 16,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "검색 (Search)",
+    "category": "Navigation"
+  },
+  {
+    "id": 17,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + S",
+    "description": "셔플 토글 (Toggle Shuffle)",
+    "category": "Playback"
+  },
+  {
+    "id": 18,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + S",
+    "description": "셔플 토글 (Toggle Shuffle)",
+    "category": "Playback"
+  },
+  {
+    "id": 19,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + R",
+    "description": "반복 토글 (Toggle Repeat)",
+    "category": "Playback"
+  },
+  {
+    "id": 20,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + R",
+    "description": "반복 토글 (Toggle Repeat)",
+    "category": "Playback"
+  },
+  {
+    "id": 21,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 1",
+    "description": "홈으로 이동 (Go to Home)",
+    "category": "Navigation"
+  },
+  {
+    "id": 22,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 1",
+    "description": "홈으로 이동 (Go to Home)",
+    "category": "Navigation"
+  },
+  {
+    "id": 23,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 2",
+    "description": "검색으로 이동 (Go to Search)",
+    "category": "Navigation"
+  },
+  {
+    "id": 24,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 2",
+    "description": "검색으로 이동 (Go to Search)",
+    "category": "Navigation"
+  },
+  {
+    "id": 25,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 3",
+    "description": "라이브러리로 이동 (Go to Library)",
+    "category": "Navigation"
+  },
+  {
+    "id": 26,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 3",
+    "description": "라이브러리로 이동 (Go to Library)",
+    "category": "Navigation"
+  },
+  {
+    "id": 27,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + P",
+    "description": "개인정보 모드 (Private Session)",
+    "category": "Settings"
+  },
+  {
+    "id": 28,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + P",
+    "description": "개인정보 모드 (Private Session)",
+    "category": "Settings"
+  },
+  {
+    "id": 29,
+    "tool": "Spotify",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + W",
+    "description": "친구 활동 토글 (Toggle Friend Activity)",
+    "category": "View"
+  },
+  {
+    "id": 30,
+    "tool": "Spotify",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + W",
+    "description": "친구 활동 토글 (Toggle Friend Activity)",
+    "category": "View"
+  }
+]

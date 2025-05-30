@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Z",
+    "description": "실행 취소 (Undo)",
+    "category": "Editing"
+  },
+  {
+    "id": 2,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Z",
+    "description": "실행 취소 (Undo)",
+    "category": "Editing"
+  },
+  {
+    "id": 3,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + Z",
+    "description": "다시 실행 (Redo)",
+    "category": "Editing"
+  },
+  {
+    "id": 4,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Y",
+    "description": "다시 실행 (Redo)",
+    "category": "Editing"
+  },
+  {
+    "id": 5,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + C",
+    "description": "복사 (Copy)",
+    "category": "Editing"
+  }
+]

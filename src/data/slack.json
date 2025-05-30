@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + K",
+    "description": "빠른 전환기 (Quick switcher)",
+    "category": "Navigation"
+  },
+  {
+    "id": 2,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + K",
+    "description": "빠른 전환기 (Quick switcher)",
+    "category": "Navigation"
+  },
+  {
+    "id": 3,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + T",
+    "description": "스레드 보기 열기 (Open threads view)",
+    "category": "Navigation"
+  },
+  {
+    "id": 4,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + T",
+    "description": "스레드 보기 열기 (Open threads view)",
+    "category": "Navigation"
+  },
+  {
+    "id": 5,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + A",
+    "description": "읽지 않은 모든 항목 열기 (Open all unreads)",
+    "category": "Navigation"
+  },
+  {
+    "id": 6,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + A",
+    "description": "읽지 않은 모든 항목 열기 (Open all unreads)",
+    "category": "Navigation"
+  },
+  {
+    "id": 7,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + M",
+    "description": "언급 및 반응 열기 (Open mentions & reactions)",
+    "category": "Navigation"
+  },
+  {
+    "id": 8,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + M",
+    "description": "언급 및 반응 열기 (Open mentions & reactions)",
+    "category": "Navigation"
+  },
+  {
+    "id": 9,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "검색 (Search)",
+    "category": "Search"
+  },
+  {
+    "id": 10,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + [",
+    "description": "이전 대화로 전환 (Previous conversation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 11,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + ]",
+    "description": "다음 대화로 전환 (Next conversation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 12,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + U",
+    "description": "읽지 않음으로 표시 (Mark as unread)",
+    "category": "Actions"
+  },
+  {
+    "id": 13,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + A",
+    "description": "읽음으로 표시 (Mark as read)",
+    "category": "Actions"
+  },
+  {
+    "id": 14,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + K",
+    "description": "DM 메뉴 열기 (Open DM menu)",
+    "category": "Navigation"
+  },
+  {
+    "id": 15,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + A",
+    "description": "읽지 않은 모든 항목 보기 (View all unreads)",
+    "category": "Navigation"
+  },
+  {
+    "id": 16,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "채널 목록 열기 (Open channel list)",
+    "category": "Navigation"
+  },
+  {
+    "id": 17,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + E",
+    "description": "이모티콘 선택기 (Emoji picker)",
+    "category": "Actions"
+  },
+  {
+    "id": 18,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + I",
+    "description": "프로필 보기 (View profile)",
+    "category": "Navigation"
+  },
+  {
+    "id": 19,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "검색 (Search)",
+    "category": "Search"
+  },
+  {
+    "id": 20,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Ctrl + Tab",
+    "description": "이전 대화로 전환 (Previous conversation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 21,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Ctrl + Shift + Tab",
+    "description": "다음 대화로 전환 (Next conversation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 22,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Option + Shift + U",
+    "description": "읽지 않음으로 표시 (Mark as unread)",
+    "category": "Actions"
+  },
+  {
+    "id": 23,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Option + Shift + A",
+    "description": "읽음으로 표시 (Mark as read)",
+    "category": "Actions"
+  },
+  {
+    "id": 24,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + K",
+    "description": "DM 메뉴 열기 (Open DM menu)",
+    "category": "Navigation"
+  },
+  {
+    "id": 25,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + A",
+    "description": "읽지 않은 모든 항목 보기 (View all unreads)",
+    "category": "Navigation"
+  },
+  {
+    "id": 26,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + L",
+    "description": "채널 목록 열기 (Open channel list)",
+    "category": "Navigation"
+  },
+  {
+    "id": 27,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Ctrl + Cmd + Space",
+    "description": "이모티콘 선택기 (Emoji picker)",
+    "category": "Actions"
+  },
+  {
+    "id": 28,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + I",
+    "description": "프로필 보기 (View profile)",
+    "category": "Navigation"
+  }
+]

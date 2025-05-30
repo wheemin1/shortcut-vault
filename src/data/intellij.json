@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + A",
+    "description": "액션 찾기 (Find Action)",
+    "category": "Navigation"
+  },
+  {
+    "id": 2,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + A",
+    "description": "액션 찾기 (Find Action)",
+    "category": "Navigation"
+  },
+  {
+    "id": 3,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Shift Shift",
+    "description": "전체 검색 (Search Everywhere)",
+    "category": "Search"
+  },
+  {
+    "id": 4,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Shift Shift",
+    "description": "전체 검색 (Search Everywhere)",
+    "category": "Search"
+  },
+  {
+    "id": 5,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "클래스로 이동 (Go to Class)",
+    "category": "Navigation"
+  },
+  {
+    "id": 6,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "클래스로 이동 (Go to Class)",
+    "category": "Navigation"
+  },
+  {
+    "id": 7,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + N",
+    "description": "파일로 이동 (Go to File)",
+    "category": "Navigation"
+  },
+  {
+    "id": 8,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + N",
+    "description": "파일로 이동 (Go to File)",
+    "category": "Navigation"
+  },
+  {
+    "id": 9,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + Shift + N",
+    "description": "심볼로 이동 (Go to Symbol)",
+    "category": "Navigation"
+  },
+  {
+    "id": 10,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Shift + N",
+    "description": "심볼로 이동 (Go to Symbol)",
+    "category": "Navigation"
+  },
+  {
+    "id": 11,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + E",
+    "description": "최근 파일 (Recent Files)",
+    "category": "Navigation"
+  },
+  {
+    "id": 12,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "최근 파일 (Recent Files)",
+    "category": "Navigation"
+  },
+  {
+    "id": 13,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "선언부로 이동 (Go to Declaration)",
+    "category": "Navigation"
+  },
+  {
+    "id": 14,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "선언부로 이동 (Go to Declaration)",
+    "category": "Navigation"
+  },
+  {
+    "id": 15,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + B",
+    "description": "구현부로 이동 (Go to Implementation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 16,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + B",
+    "description": "구현부로 이동 (Go to Implementation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 17,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + U",
+    "description": "상위 클래스로 이동 (Go to Super Class)",
+    "category": "Navigation"
+  },
+  {
+    "id": 18,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + U",
+    "description": "상위 클래스로 이동 (Go to Super Class)",
+    "category": "Navigation"
+  },
+  {
+    "id": 19,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + G",
+    "description": "라인으로 이동 (Go to Line)",
+    "category": "Navigation"
+  },
+  {
+    "id": 20,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + G",
+    "description": "라인으로 이동 (Go to Line)",
+    "category": "Navigation"
+  },
+  {
+    "id": 21,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "F12",
+    "description": "마지막 도구 창으로 돌아가기 (Back to Editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 22,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "F12",
+    "description": "마지막 도구 창으로 돌아가기 (Back to Editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 23,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Escape",
+    "description": "에디터로 포커스 (Go to Editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 24,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Escape",
+    "description": "에디터로 포커스 (Go to Editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 25,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "찾기 (Find)",
+    "category": "Search"
+  },
+  {
+    "id": 26,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "찾기 (Find)",
+    "category": "Search"
+  },
+  {
+    "id": 27,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + R",
+    "description": "바꾸기 (Replace)",
+    "category": "Search"
+  },
+  {
+    "id": 28,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + R",
+    "description": "바꾸기 (Replace)",
+    "category": "Search"
+  },
+  {
+    "id": 29,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + F",
+    "description": "전체 파일에서 찾기 (Find in Files)",
+    "category": "Search"
+  },
+  {
+    "id": 30,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + F",
+    "description": "전체 파일에서 찾기 (Find in Files)",
+    "category": "Search"
+  },
+  {
+    "id": 31,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + R",
+    "description": "전체 파일에서 바꾸기 (Replace in Files)",
+    "category": "Search"
+  },
+  {
+    "id": 32,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + R",
+    "description": "전체 파일에서 바꾸기 (Replace in Files)",
+    "category": "Search"
+  },
+  {
+    "id": 33,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + W",
+    "description": "선택 확장 (Extend Selection)",
+    "category": "Selection"
+  },
+  {
+    "id": 34,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + W",
+    "description": "선택 확장 (Extend Selection)",
+    "category": "Selection"
+  },
+  {
+    "id": 35,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + W",
+    "description": "선택 축소 (Shrink Selection)",
+    "category": "Selection"
+  },
+  {
+    "id": 36,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + W",
+    "description": "선택 축소 (Shrink Selection)",
+    "category": "Selection"
+  },
+  {
+    "id": 37,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Alt + ↑",
+    "description": "메서드 확장 선택 (Select Successively Increasing Code Blocks)",
+    "category": "Selection"
+  },
+  {
+    "id": 38,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + ↑",
+    "description": "메서드 확장 선택 (Select Successively Increasing Code Blocks)",
+    "category": "Selection"
+  },
+  {
+    "id": 39,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Alt + ↓",
+    "description": "메서드 축소 선택 (Decrease Current Selection)",
+    "category": "Selection"
+  },
+  {
+    "id": 40,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + ↓",
+    "description": "메서드 축소 선택 (Decrease Current Selection)",
+    "category": "Selection"
+  },
+  {
+    "id": 41,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + /",
+    "description": "줄 주석 토글 (Comment Line)",
+    "category": "Code"
+  },
+  {
+    "id": 42,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + /",
+    "description": "줄 주석 토글 (Comment Line)",
+    "category": "Code"
+  },
+  {
+    "id": 43,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + /",
+    "description": "블록 주석 토글 (Comment Block)",
+    "category": "Code"
+  },
+  {
+    "id": 44,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + /",
+    "description": "블록 주석 토글 (Comment Block)",
+    "category": "Code"
+  },
+  {
+    "id": 45,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + L",
+    "description": "코드 포맷팅 (Reformat Code)",
+    "category": "Code"
+  },
+  {
+    "id": 46,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + L",
+    "description": "코드 포맷팅 (Reformat Code)",
+    "category": "Code"
+  },
+  {
+    "id": 47,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + O",
+    "description": "Import 최적화 (Optimize Imports)",
+    "category": "Code"
+  },
+  {
+    "id": 48,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + O",
+    "description": "Import 최적화 (Optimize Imports)",
+    "category": "Code"
+  },
+  {
+    "id": 49,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + I",
+    "description": "들여쓰기 자동 정리 (Auto-Indent Lines)",
+    "category": "Code"
+  },
+  {
+    "id": 50,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + I",
+    "description": "들여쓰기 자동 정리 (Auto-Indent Lines)",
+    "category": "Code"
+  },
+  {
+    "id": 51,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Tab",
+    "description": "들여쓰기 (Indent)",
+    "category": "Code"
+  },
+  {
+    "id": 52,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Tab",
+    "description": "들여쓰기 (Indent)",
+    "category": "Code"
+  },
+  {
+    "id": 53,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Shift + Tab",
+    "description": "내어쓰기 (Unindent)",
+    "category": "Code"
+  },
+  {
+    "id": 54,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Shift + Tab",
+    "description": "내어쓰기 (Unindent)",
+    "category": "Code"
+  },
+  {
+    "id": 55,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + X",
+    "description": "줄 잘라내기 (Cut Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 56,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + X",
+    "description": "줄 잘라내기 (Cut Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 57,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + D",
+    "description": "줄 복제 (Duplicate Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 58,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + D",
+    "description": "줄 복제 (Duplicate Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 59,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Y",
+    "description": "줄 삭제 (Delete Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 60,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Y",
+    "description": "줄 삭제 (Delete Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 61,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + ↑",
+    "description": "줄 위로 이동 (Move Line Up)",
+    "category": "Edit"
+  },
+  {
+    "id": 62,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + ↑",
+    "description": "줄 위로 이동 (Move Line Up)",
+    "category": "Edit"
+  },
+  {
+    "id": 63,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + ↓",
+    "description": "줄 아래로 이동 (Move Line Down)",
+    "category": "Edit"
+  },
+  {
+    "id": 64,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + ↓",
+    "description": "줄 아래로 이동 (Move Line Down)",
+    "category": "Edit"
+  },
+  {
+    "id": 65,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + J",
+    "description": "줄 합치기 (Join Lines)",
+    "category": "Edit"
+  },
+  {
+    "id": 66,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + J",
+    "description": "줄 합치기 (Join Lines)",
+    "category": "Edit"
+  },
+  {
+    "id": 67,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Enter",
+    "description": "줄 분할 (Split Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 68,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Enter",
+    "description": "줄 분할 (Split Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 69,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Shift + Enter",
+    "description": "새 줄 시작 (Start New Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 70,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Shift + Enter",
+    "description": "새 줄 시작 (Start New Line)",
+    "category": "Edit"
+  },
+  {
+    "id": 71,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + U",
+    "description": "대소문자 전환 (Toggle Case)",
+    "category": "Edit"
+  },
+  {
+    "id": 72,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + U",
+    "description": "대소문자 전환 (Toggle Case)",
+    "category": "Edit"
+  },
+  {
+    "id": 73,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "F2",
+    "description": "다음 오류로 이동 (Next Highlighted Error)",
+    "category": "Navigation"
+  },
+  {
+    "id": 74,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "F2",
+    "description": "다음 오류로 이동 (Next Highlighted Error)",
+    "category": "Navigation"
+  },
+  {
+    "id": 75,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Shift + F2",
+    "description": "이전 오류로 이동 (Previous Highlighted Error)",
+    "category": "Navigation"
+  },
+  {
+    "id": 76,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Shift + F2",
+    "description": "이전 오류로 이동 (Previous Highlighted Error)",
+    "category": "Navigation"
+  },
+  {
+    "id": 77,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Alt + Enter",
+    "description": "빠른 수정 보기 (Show Intention Actions)",
+    "category": "Code"
+  },
+  {
+    "id": 78,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Alt + Enter",
+    "description": "빠른 수정 보기 (Show Intention Actions)",
+    "category": "Code"
+  },
+  {
+    "id": 79,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F1",
+    "description": "오류 설명 보기 (Show Error Description)",
+    "category": "Code"
+  },
+  {
+    "id": 80,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F1",
+    "description": "오류 설명 보기 (Show Error Description)",
+    "category": "Code"
+  },
+  {
+    "id": 81,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "F5",
+    "description": "복사 (Copy)",
+    "category": "Refactor"
+  },
+  {
+    "id": 82,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "F5",
+    "description": "복사 (Copy)",
+    "category": "Refactor"
+  },
+  {
+    "id": 83,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "F6",
+    "description": "이동 (Move)",
+    "category": "Refactor"
+  },
+  {
+    "id": 84,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "F6",
+    "description": "이동 (Move)",
+    "category": "Refactor"
+  },
+  {
+    "id": 85,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Shift + F6",
+    "description": "이름 바꾸기 (Rename)",
+    "category": "Refactor"
+  },
+  {
+    "id": 86,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Shift + F6",
+    "description": "이름 바꾸기 (Rename)",
+    "category": "Refactor"
+  },
+  {
+    "id": 87,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + Shift + T",
+    "description": "리팩토링 메뉴 (Refactor This)",
+    "category": "Refactor"
+  },
+  {
+    "id": 88,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Shift + T",
+    "description": "리팩토링 메뉴 (Refactor This)",
+    "category": "Refactor"
+  },
+  {
+    "id": 89,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + V",
+    "description": "변수 추출 (Extract Variable)",
+    "category": "Refactor"
+  },
+  {
+    "id": 90,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + V",
+    "description": "변수 추출 (Extract Variable)",
+    "category": "Refactor"
+  },
+  {
+    "id": 91,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + M",
+    "description": "메서드 추출 (Extract Method)",
+    "category": "Refactor"
+  },
+  {
+    "id": 92,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + M",
+    "description": "메서드 추출 (Extract Method)",
+    "category": "Refactor"
+  },
+  {
+    "id": 93,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + F",
+    "description": "필드 추출 (Extract Field)",
+    "category": "Refactor"
+  },
+  {
+    "id": 94,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + F",
+    "description": "필드 추출 (Extract Field)",
+    "category": "Refactor"
+  },
+  {
+    "id": 95,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + C",
+    "description": "상수 추출 (Extract Constant)",
+    "category": "Refactor"
+  },
+  {
+    "id": 96,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + C",
+    "description": "상수 추출 (Extract Constant)",
+    "category": "Refactor"
+  },
+  {
+    "id": 97,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + P",
+    "description": "파라미터 추출 (Extract Parameter)",
+    "category": "Refactor"
+  },
+  {
+    "id": 98,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + P",
+    "description": "파라미터 추출 (Extract Parameter)",
+    "category": "Refactor"
+  },
+  {
+    "id": 99,
+    "tool": "IntelliJ",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Alt + N",
+    "description": "인라인 (Inline)",
+    "category": "Refactor"
+  },
+  {
+    "id": 100,
+    "tool": "IntelliJ",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + N",
+    "description": "인라인 (Inline)",
+    "category": "Refactor"
+  }
+]

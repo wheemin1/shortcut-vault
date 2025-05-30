@@ -1,0 +1,1906 @@
+[
+  {
+    "id": 1,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + D",
+    "description": "Duplicate selection",
+    "category": "Editing"
+  },
+  {
+    "id": 2,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + D",
+    "description": "Duplicate selection",
+    "category": "Editing"
+  },
+  {
+    "id": 3,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + G",
+    "description": "Group selection",
+    "category": "Editing"
+  },
+  {
+    "id": 4,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + G",
+    "description": "Group selection",
+    "category": "Editing"
+  },
+  {
+    "id": 5,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + G",
+    "description": "Ungroup selection",
+    "category": "Editing"
+  },
+  {
+    "id": 6,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + G",
+    "description": "Ungroup selection",
+    "category": "Editing"
+  },
+  {
+    "id": 7,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "R",
+    "description": "Rectangle tool",
+    "category": "Tools"
+  },
+  {
+    "id": 8,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "R",
+    "description": "Rectangle tool",
+    "category": "Tools"
+  },
+  {
+    "id": 9,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "T",
+    "description": "Text tool",
+    "category": "Tools"
+  },
+  {
+    "id": 10,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "T",
+    "description": "Text tool",
+    "category": "Tools"
+  },
+  {
+    "id": 11,
+    "tool": "Figma",
+    "platform": "Mac",
+    "keyCombo": "V",
+    "description": "Move tool",
+    "category": "Tools"
+  },
+  {
+    "id": 12,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "V",
+    "description": "Move tool",
+    "category": "Tools"
+  },
+  {
+    "id": 13,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + P",
+    "description": "Quick open file",
+    "category": "Navigation"
+  },
+  {
+    "id": 14,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + P",
+    "description": "Quick open file",
+    "category": "Navigation"
+  },
+  {
+    "id": 15,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + P",
+    "description": "Command palette",
+    "category": "Navigation"
+  },
+  {
+    "id": 16,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + P",
+    "description": "Command palette",
+    "category": "Navigation"
+  },
+  {
+    "id": 17,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + /",
+    "description": "Toggle line comment",
+    "category": "Editing"
+  },
+  {
+    "id": 18,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + /",
+    "description": "Toggle line comment",
+    "category": "Editing"
+  },
+  {
+    "id": 19,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + D",
+    "description": "Add selection to next find match",
+    "category": "Editing"
+  },
+  {
+    "id": 20,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + D",
+    "description": "Add selection to next find match",
+    "category": "Editing"
+  },
+  {
+    "id": 21,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + K",
+    "description": "Delete line",
+    "category": "Editing"
+  },
+  {
+    "id": 22,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + K",
+    "description": "Delete line",
+    "category": "Editing"
+  },
+  {
+    "id": 23,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + Enter",
+    "description": "Insert line above",
+    "category": "Editing"
+  },
+  {
+    "id": 24,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + Enter",
+    "description": "Insert line above",
+    "category": "Editing"
+  },
+  {
+    "id": 25,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + L",
+    "description": "Select all occurrences of find match",
+    "category": "Editing"
+  },
+  {
+    "id": 26,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "Select all occurrences of find match",
+    "category": "Editing"
+  },
+  {
+    "id": 27,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + `",
+    "description": "Show integrated terminal",
+    "category": "Navigation"
+  },
+  {
+    "id": 28,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + `",
+    "description": "Show integrated terminal",
+    "category": "Navigation"
+  },
+  {
+    "id": 29,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "Create new page",
+    "category": "Navigation"
+  },
+  {
+    "id": 30,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "Create new page",
+    "category": "Navigation"
+  },
+  {
+    "id": 31,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + E",
+    "description": "Edit or stop editing",
+    "category": "Editing"
+  },
+  {
+    "id": 32,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "Edit or stop editing",
+    "category": "Editing"
+  },
+  {
+    "id": 33,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + L",
+    "description": "Toggle bullet list",
+    "category": "Formatting"
+  },
+  {
+    "id": 34,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "Toggle bullet list",
+    "category": "Formatting"
+  },
+  {
+    "id": 35,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + N",
+    "description": "Toggle numbered list",
+    "category": "Formatting"
+  },
+  {
+    "id": 36,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + N",
+    "description": "Toggle numbered list",
+    "category": "Formatting"
+  },
+  {
+    "id": 37,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "Bold text",
+    "category": "Formatting"
+  },
+  {
+    "id": 38,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "Bold text",
+    "category": "Formatting"
+  },
+  {
+    "id": 39,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + K",
+    "description": "Quick switcher",
+    "category": "Navigation"
+  },
+  {
+    "id": 40,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + K",
+    "description": "Quick switcher",
+    "category": "Navigation"
+  },
+  {
+    "id": 41,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + T",
+    "description": "Open threads view",
+    "category": "Navigation"
+  },
+  {
+    "id": 42,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + T",
+    "description": "Open threads view",
+    "category": "Navigation"
+  },
+  {
+    "id": 43,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + A",
+    "description": "Open all unreads",
+    "category": "Navigation"
+  },
+  {
+    "id": 44,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + A",
+    "description": "Open all unreads",
+    "category": "Navigation"
+  },
+  {
+    "id": 45,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + M",
+    "description": "Open mentions & reactions",
+    "category": "Navigation"
+  },
+  {
+    "id": 46,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + M",
+    "description": "Open mentions & reactions",
+    "category": "Navigation"
+  },
+  {
+    "id": 47,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + T",
+    "description": "Open new tab",
+    "category": "Navigation"
+  },
+  {
+    "id": 48,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + T",
+    "description": "Open new tab",
+    "category": "Navigation"
+  },
+  {
+    "id": 49,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + T",
+    "description": "Reopen closed tab",
+    "category": "Navigation"
+  },
+  {
+    "id": 50,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + T",
+    "description": "Reopen closed tab",
+    "category": "Navigation"
+  },
+  {
+    "id": 51,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + L",
+    "description": "Jump to address bar",
+    "category": "Navigation"
+  },
+  {
+    "id": 52,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + L",
+    "description": "Jump to address bar",
+    "category": "Navigation"
+  },
+  {
+    "id": 53,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + R",
+    "description": "Reload page",
+    "category": "Navigation"
+  },
+  {
+    "id": 54,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + R",
+    "description": "Reload page",
+    "category": "Navigation"
+  },
+  {
+    "id": 55,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + N",
+    "description": "Open incognito window",
+    "category": "Navigation"
+  },
+  {
+    "id": 56,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + N",
+    "description": "Open incognito window",
+    "category": "Navigation"
+  },
+  {
+    "id": 57,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Z",
+    "description": "Undo",
+    "category": "Editing"
+  },
+  {
+    "id": 58,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Z",
+    "description": "Undo",
+    "category": "Editing"
+  },
+  {
+    "id": 59,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + J",
+    "description": "Duplicate layer",
+    "category": "Editing"
+  },
+  {
+    "id": 60,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + J",
+    "description": "Duplicate layer",
+    "category": "Editing"
+  },
+  {
+    "id": 61,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + N",
+    "description": "New layer",
+    "category": "Editing"
+  },
+  {
+    "id": 62,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + N",
+    "description": "New layer",
+    "category": "Editing"
+  },
+  {
+    "id": 63,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "B",
+    "description": "Brush tool",
+    "category": "Tools"
+  },
+  {
+    "id": 64,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "B",
+    "description": "Brush tool",
+    "category": "Tools"
+  },
+  {
+    "id": 65,
+    "tool": "Photoshop",
+    "platform": "Mac",
+    "keyCombo": "E",
+    "description": "Eraser tool",
+    "category": "Tools"
+  },
+  {
+    "id": 66,
+    "tool": "Photoshop",
+    "platform": "Windows",
+    "keyCombo": "E",
+    "description": "Eraser tool",
+    "category": "Tools"
+  },
+  {
+    "id": 67,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + E",
+    "description": "Export/Save (출력/저장)",
+    "category": "File"
+  },
+  {
+    "id": 68,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + S",
+    "description": "Save to Version History (히스토리 저장)",
+    "category": "File"
+  },
+  {
+    "id": 69,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + K",
+    "description": "Place Image (이미지 삽입)",
+    "category": "File"
+  },
+  {
+    "id": 70,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + C",
+    "description": "Copy (복사)",
+    "category": "Editing"
+  },
+  {
+    "id": 71,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + X",
+    "description": "Cut (잘라내기)",
+    "category": "Editing"
+  },
+  {
+    "id": 72,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + V",
+    "description": "Paste (붙여넣기)",
+    "category": "Editing"
+  },
+  {
+    "id": 73,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + V",
+    "description": "Paste Over Selection (선택 위에 붙여넣기)",
+    "category": "Editing"
+  },
+  {
+    "id": 74,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Alt + Drag",
+    "description": "Resize from Center (중심점 중심으로 사이즈 조절)",
+    "category": "Editing"
+  },
+  {
+    "id": 75,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Alt + Drag",
+    "description": "Duplicate Selection (선택 복사)",
+    "category": "Editing"
+  },
+  {
+    "id": 76,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + C",
+    "description": "Copy Properties (속성 복사)",
+    "category": "Editing"
+  },
+  {
+    "id": 77,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + V",
+    "description": "Paste Properties (속성 붙여넣기)",
+    "category": "Editing"
+  },
+  {
+    "id": 78,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Right Click",
+    "description": "Select Layer Menu (레이어 선택)",
+    "category": "Selection"
+  },
+  {
+    "id": 79,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Click",
+    "description": "Deep Select (직접 선택)",
+    "category": "Selection"
+  },
+  {
+    "id": 80,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Space + Drag",
+    "description": "Pan (화면 이동)",
+    "category": "View"
+  },
+  {
+    "id": 81,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + +",
+    "description": "Zoom In (줌인)",
+    "category": "View"
+  },
+  {
+    "id": 82,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + -",
+    "description": "Zoom Out (줌아웃)",
+    "category": "View"
+  },
+  {
+    "id": 83,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + 1",
+    "description": "Zoom to Fit (화면에 맞추기)",
+    "category": "View"
+  },
+  {
+    "id": 84,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + 0",
+    "description": "Zoom to 100% (100%로 맞추기)",
+    "category": "View"
+  },
+  {
+    "id": 85,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + R",
+    "description": "Show/Hide Rulers (눈금자)",
+    "category": "View"
+  },
+  {
+    "id": 86,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + 3",
+    "description": "Show Outlines (외곽선으로 보기)",
+    "category": "View"
+  },
+  {
+    "id": 87,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Y",
+    "description": "Pixel Preview (픽셀 모드 프리뷰)",
+    "category": "View"
+  },
+  {
+    "id": 88,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + A",
+    "description": "Add Auto Layout (오토레이아웃 만들기)",
+    "category": "Arrange"
+  },
+  {
+    "id": 89,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + A",
+    "description": "Remove Auto Layout (오토레이아웃 해제)",
+    "category": "Arrange"
+  },
+  {
+    "id": 90,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ]",
+    "description": "Bring Forward (앞으로 가져오기)",
+    "category": "Arrange"
+  },
+  {
+    "id": 91,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + [",
+    "description": "Send Backward (뒤로 보내기)",
+    "category": "Arrange"
+  },
+  {
+    "id": 92,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + ]",
+    "description": "Bring to Front (맨 앞으로 가져오기)",
+    "category": "Arrange"
+  },
+  {
+    "id": 93,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + [",
+    "description": "Send to Back (맨 뒤로 보내기)",
+    "category": "Arrange"
+  },
+  {
+    "id": 94,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "C",
+    "description": "Add/Show Comments (코멘트 추가 또는 보기)",
+    "category": "Tools"
+  },
+  {
+    "id": 95,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "P",
+    "description": "Pen Tool (펜툴)",
+    "category": "Tools"
+  },
+  {
+    "id": 96,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Shift + P",
+    "description": "Pencil Tool (연필 툴)",
+    "category": "Tools"
+  },
+  {
+    "id": 97,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "O",
+    "description": "Ellipse (원 그리기)",
+    "category": "Tools"
+  },
+  {
+    "id": 98,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "L",
+    "description": "Line (선 그리기)",
+    "category": "Tools"
+  },
+  {
+    "id": 99,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "F",
+    "description": "Frame (프레임 생성)",
+    "category": "Tools"
+  },
+  {
+    "id": 100,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "S",
+    "description": "Slice (슬라이스)",
+    "category": "Tools"
+  },
+  {
+    "id": 101,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "I",
+    "description": "Pick Color (스포이드 툴)",
+    "category": "Tools"
+  },
+  {
+    "id": 102,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + V",
+    "description": "Paste and Match Style (스타일에 맞춰 붙여넣기)",
+    "category": "Text"
+  },
+  {
+    "id": 103,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + U",
+    "description": "Underline (밑줄)",
+    "category": "Text"
+  },
+  {
+    "id": 104,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + H",
+    "description": "Show/Hide Selection (숨기기/나타내기)",
+    "category": "Object"
+  },
+  {
+    "id": 105,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "Lock/Unlock Selection (잠금/잠금해제)",
+    "category": "Object"
+  },
+  {
+    "id": 106,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Shift + L",
+    "description": "Unlock All Objects (전체 잠금 해제)",
+    "category": "Object"
+  },
+  {
+    "id": 107,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "Flatten Selection (병합)",
+    "category": "Object"
+  },
+  {
+    "id": 108,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + O",
+    "description": "Outline Stroke (윤곽선으로 변경)",
+    "category": "Object"
+  },
+  {
+    "id": 109,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Alt + Double Click",
+    "description": "Crop Image (이미지 자르기)",
+    "category": "Object"
+  },
+  {
+    "id": 110,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + K",
+    "description": "Create Component (컴포넌트 만들기)",
+    "category": "Components"
+  },
+  {
+    "id": 111,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + B",
+    "description": "Detach Instance (인스턴스 분리하기)",
+    "category": "Components"
+  },
+  {
+    "id": 112,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + /",
+    "description": "Search (검색)",
+    "category": "Navigation"
+  },
+  {
+    "id": 113,
+    "tool": "Figma",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + /",
+    "description": "Keyboard Shortcuts (단축키 보기)",
+    "category": "Navigation"
+  },
+  {
+    "id": 114,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "F5",
+    "description": "페이지 새로 고치기 (Refresh page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 115,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "새 창 열기 (Open new window)",
+    "category": "Navigation"
+  },
+  {
+    "id": 116,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "F6",
+    "description": "검색 주소 창으로 이동 (Jump to address bar)",
+    "category": "Navigation"
+  },
+  {
+    "id": 117,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + P",
+    "description": "페이지 인쇄 (Print page)",
+    "category": "File"
+  },
+  {
+    "id": 118,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + S",
+    "description": "페이지 저장 (Save page)",
+    "category": "File"
+  },
+  {
+    "id": 119,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "검색 페이지에서 특정 단어 검색 (Find on page)",
+    "category": "Search"
+  },
+  {
+    "id": 120,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + C",
+    "description": "선택한 영역 복사 (Copy selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 121,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + V",
+    "description": "복사내용 붙여넣기 (Paste)",
+    "category": "Editing"
+  },
+  {
+    "id": 122,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Space",
+    "description": "페이지 아래로 스크롤 (Scroll down page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 123,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 0",
+    "description": "화면 글자 크기 초기화 (Reset zoom)",
+    "category": "View"
+  },
+  {
+    "id": 124,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + W",
+    "description": "새 탭이나 창 닫기 (Close tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 125,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Alt + Left Arrow",
+    "description": "뒤로가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 126,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + R",
+    "description": "페이지 새로 고치기 (Refresh page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 127,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "새 창 열기 (Open new window)",
+    "category": "Navigation"
+  },
+  {
+    "id": 128,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + L",
+    "description": "검색 주소 창으로 이동 (Jump to address bar)",
+    "category": "Navigation"
+  },
+  {
+    "id": 129,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + P",
+    "description": "페이지 인쇄 (Print page)",
+    "category": "File"
+  },
+  {
+    "id": 130,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + S",
+    "description": "페이지 저장 (Save page)",
+    "category": "File"
+  },
+  {
+    "id": 131,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "검색 페이지에서 특정 단어 검색 (Find on page)",
+    "category": "Search"
+  },
+  {
+    "id": 132,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + C",
+    "description": "선택한 영역 복사 (Copy selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 133,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + V",
+    "description": "복사내용 붙여넣기 (Paste)",
+    "category": "Editing"
+  },
+  {
+    "id": 134,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Space",
+    "description": "페이지 아래로 스크롤 (Scroll down page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 135,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 0",
+    "description": "화면 글자 크기 초기화 (Reset zoom)",
+    "category": "View"
+  },
+  {
+    "id": 136,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + W",
+    "description": "새 탭이나 창 닫기 (Close tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 137,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Left Arrow",
+    "description": "뒤로가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 138,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + /",
+    "description": "한 줄 주석 토글 (Toggle line comment)",
+    "category": "Editing"
+  },
+  {
+    "id": 139,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "텍스트 찾기 (Find text)",
+    "category": "Search"
+  },
+  {
+    "id": 140,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + H",
+    "description": "텍스트 바꾸기 (Replace text)",
+    "category": "Search"
+  },
+  {
+    "id": 141,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ,",
+    "description": "설정창 열기 (Open settings)",
+    "category": "Navigation"
+  },
+  {
+    "id": 142,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + `",
+    "description": "터미널 열기/닫기 (Open/close terminal)",
+    "category": "Navigation"
+  },
+  {
+    "id": 143,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "탐색기 창 토글 (Toggle sidebar)",
+    "category": "View"
+  },
+  {
+    "id": 144,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + +",
+    "description": "폰트 크기 확대 (Zoom in)",
+    "category": "View"
+  },
+  {
+    "id": 145,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + -",
+    "description": "폰트 크기 축소 (Zoom out)",
+    "category": "View"
+  },
+  {
+    "id": 146,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 1",
+    "description": "첫 번째 에디터 포커스 (Focus first editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 147,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 2",
+    "description": "두 번째 에디터 포커스 (Focus second editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 148,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Page Up",
+    "description": "이전 탭으로 이동 (Previous tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 149,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Page Down",
+    "description": "다음 탭으로 이동 (Next tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 150,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Shift + Alt + F",
+    "description": "코드 자동 정렬 (Format document)",
+    "category": "Formatting"
+  },
+  {
+    "id": 151,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + G",
+    "description": "특정 라인으로 이동 (Go to line)",
+    "category": "Navigation"
+  },
+  {
+    "id": 152,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "F12",
+    "description": "정의로 이동 (Go to definition)",
+    "category": "Navigation"
+  },
+  {
+    "id": 153,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + F12",
+    "description": "정의 미리보기 (Peek definition)",
+    "category": "Navigation"
+  },
+  {
+    "id": 154,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Shift + Alt + Up",
+    "description": "라인 위로 복사 (Copy line up)",
+    "category": "Editing"
+  },
+  {
+    "id": 155,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Shift + Alt + Down",
+    "description": "라인 아래로 복사 (Copy line down)",
+    "category": "Editing"
+  },
+  {
+    "id": 156,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + Up",
+    "description": "라인 위로 이동 (Move line up)",
+    "category": "Editing"
+  },
+  {
+    "id": 157,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + Down",
+    "description": "라인 아래로 이동 (Move line down)",
+    "category": "Editing"
+  },
+  {
+    "id": 158,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + K",
+    "description": "라인 삭제 (Delete line)",
+    "category": "Editing"
+  },
+  {
+    "id": 159,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + L",
+    "description": "라인 선택 (Select line)",
+    "category": "Selection"
+  },
+  {
+    "id": 160,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "같은 단어 모두 선택 (Select all occurrences)",
+    "category": "Selection"
+  },
+  {
+    "id": 161,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "F2",
+    "description": "심볼 이름 바꾸기 (Rename symbol)",
+    "category": "Editing"
+  },
+  {
+    "id": 162,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + Click",
+    "description": "멀티 커서 (Multi cursor)",
+    "category": "Selection"
+  },
+  {
+    "id": 163,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Up",
+    "description": "위쪽 멀티 커서 (Multi cursor up)",
+    "category": "Selection"
+  },
+  {
+    "id": 164,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + Down",
+    "description": "아래쪽 멀티 커서 (Multi cursor down)",
+    "category": "Selection"
+  },
+  {
+    "id": 165,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Shift + Alt + I",
+    "description": "선택된 줄 끝에 커서 생성 (Insert cursor at end of lines)",
+    "category": "Selection"
+  },
+  {
+    "id": 166,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + .",
+    "description": "빠른 수정 (Quick fix)",
+    "category": "Editing"
+  },
+  {
+    "id": 167,
+    "tool": "VSCode",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + A",
+    "description": "블록 주석 토글 (Toggle block comment)",
+    "category": "Editing"
+  },
+  {
+    "id": 168,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "/",
+    "description": "블록 유형 선택 (Block type selector)",
+    "category": "Navigation"
+  },
+  {
+    "id": 169,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "굵게 표시 (Bold text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 170,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + U",
+    "description": "밑줄 표시 (Underline text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 171,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + I",
+    "description": "기울임꼴 (Italic text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 172,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + H",
+    "description": "서식 적용 (Apply formatting)",
+    "category": "Formatting"
+  },
+  {
+    "id": 173,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Tab",
+    "description": "들여쓰기 (Indent)",
+    "category": "Formatting"
+  },
+  {
+    "id": 174,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "인라인 코드 (Inline code)",
+    "category": "Formatting"
+  },
+  {
+    "id": 175,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Alt + T",
+    "description": "모든 토글 열기/닫기 (Toggle all)",
+    "category": "Navigation"
+  },
+  {
+    "id": 176,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Escape",
+    "description": "블록 선택 (Select block)",
+    "category": "Selection"
+  },
+  {
+    "id": 177,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + D",
+    "description": "블록 복사 (Duplicate block)",
+    "category": "Editing"
+  },
+  {
+    "id": 178,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "새 페이지 만들기 (New page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 179,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + [",
+    "description": "뒤로 가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 180,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ]",
+    "description": "앞으로 가기 (Go forward)",
+    "category": "Navigation"
+  },
+  {
+    "id": 181,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + \\",
+    "description": "사이드바 토글 (Toggle sidebar)",
+    "category": "View"
+  },
+  {
+    "id": 182,
+    "tool": "Notion",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + P",
+    "description": "페이지 검색 (Search pages)",
+    "category": "Search"
+  },
+  {
+    "id": 183,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "검색 (Search)",
+    "category": "Search"
+  },
+  {
+    "id": 184,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + [",
+    "description": "이전 대화로 전환 (Previous conversation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 185,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + ]",
+    "description": "다음 대화로 전환 (Next conversation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 186,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + U",
+    "description": "읽지 않음으로 표시 (Mark as unread)",
+    "category": "Actions"
+  },
+  {
+    "id": 187,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Alt + Shift + A",
+    "description": "읽음으로 표시 (Mark as read)",
+    "category": "Actions"
+  },
+  {
+    "id": 188,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + K",
+    "description": "DM 메뉴 열기 (Open DM menu)",
+    "category": "Navigation"
+  },
+  {
+    "id": 189,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + A",
+    "description": "읽지 않은 모든 항목 보기 (View all unreads)",
+    "category": "Navigation"
+  },
+  {
+    "id": 190,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + L",
+    "description": "채널 목록 열기 (Open channel list)",
+    "category": "Navigation"
+  },
+  {
+    "id": 191,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + E",
+    "description": "이모티콘 선택기 (Emoji picker)",
+    "category": "Actions"
+  },
+  {
+    "id": 192,
+    "tool": "Slack",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + I",
+    "description": "프로필 보기 (View profile)",
+    "category": "Navigation"
+  },
+  {
+    "id": 193,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "검색 (Search)",
+    "category": "Search"
+  },
+  {
+    "id": 194,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Ctrl + Tab",
+    "description": "이전 대화로 전환 (Previous conversation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 195,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Ctrl + Shift + Tab",
+    "description": "다음 대화로 전환 (Next conversation)",
+    "category": "Navigation"
+  },
+  {
+    "id": 196,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Option + Shift + U",
+    "description": "읽지 않음으로 표시 (Mark as unread)",
+    "category": "Actions"
+  },
+  {
+    "id": 197,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Option + Shift + A",
+    "description": "읽음으로 표시 (Mark as read)",
+    "category": "Actions"
+  },
+  {
+    "id": 198,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + K",
+    "description": "DM 메뉴 열기 (Open DM menu)",
+    "category": "Navigation"
+  },
+  {
+    "id": 199,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + A",
+    "description": "읽지 않은 모든 항목 보기 (View all unreads)",
+    "category": "Navigation"
+  },
+  {
+    "id": 200,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + L",
+    "description": "채널 목록 열기 (Open channel list)",
+    "category": "Navigation"
+  },
+  {
+    "id": 201,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Ctrl + Cmd + Space",
+    "description": "이모티콘 선택기 (Emoji picker)",
+    "category": "Actions"
+  },
+  {
+    "id": 202,
+    "tool": "Slack",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + I",
+    "description": "프로필 보기 (View profile)",
+    "category": "Navigation"
+  },
+  {
+    "id": 203,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "/",
+    "description": "블록 유형 선택 (Block type selector)",
+    "category": "Navigation"
+  },
+  {
+    "id": 204,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "굵게 표시 (Bold text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 205,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + U",
+    "description": "밑줄 표시 (Underline text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 206,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + I",
+    "description": "기울임꼴 (Italic text)",
+    "category": "Formatting"
+  },
+  {
+    "id": 207,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + H",
+    "description": "서식 적용 (Apply formatting)",
+    "category": "Formatting"
+  },
+  {
+    "id": 208,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Tab",
+    "description": "들여쓰기 (Indent)",
+    "category": "Formatting"
+  },
+  {
+    "id": 209,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + E",
+    "description": "인라인 코드 (Inline code)",
+    "category": "Formatting"
+  },
+  {
+    "id": 210,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + T",
+    "description": "모든 토글 열기/닫기 (Toggle all)",
+    "category": "Navigation"
+  },
+  {
+    "id": 211,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Escape",
+    "description": "블록 선택 (Select block)",
+    "category": "Selection"
+  },
+  {
+    "id": 212,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + D",
+    "description": "블록 복사 (Duplicate block)",
+    "category": "Editing"
+  },
+  {
+    "id": 213,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "새 페이지 만들기 (New page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 214,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + [",
+    "description": "뒤로 가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 215,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ]",
+    "description": "앞으로 가기 (Go forward)",
+    "category": "Navigation"
+  },
+  {
+    "id": 216,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + \\",
+    "description": "사이드바 토글 (Toggle sidebar)",
+    "category": "View"
+  },
+  {
+    "id": 217,
+    "tool": "Notion",
+    "platform": "Mac",
+    "keyCombo": "Cmd + P",
+    "description": "페이지 검색 (Search pages)",
+    "category": "Search"
+  },
+  {
+    "id": 218,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + /",
+    "description": "한 줄 주석 토글 (Toggle line comment)",
+    "category": "Editing"
+  },
+  {
+    "id": 219,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "텍스트 찾기 (Find text)",
+    "category": "Search"
+  },
+  {
+    "id": 220,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + H",
+    "description": "텍스트 바꾸기 (Replace text)",
+    "category": "Search"
+  },
+  {
+    "id": 221,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ,",
+    "description": "설정창 열기 (Open settings)",
+    "category": "Navigation"
+  },
+  {
+    "id": 222,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + `",
+    "description": "터미널 열기/닫기 (Open/close terminal)",
+    "category": "Navigation"
+  },
+  {
+    "id": 223,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "탐색기 창 토글 (Toggle sidebar)",
+    "category": "View"
+  },
+  {
+    "id": 224,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + +",
+    "description": "폰트 크기 확대 (Zoom in)",
+    "category": "View"
+  },
+  {
+    "id": 225,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + -",
+    "description": "폰트 크기 축소 (Zoom out)",
+    "category": "View"
+  },
+  {
+    "id": 226,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 1",
+    "description": "첫 번째 에디터 포커스 (Focus first editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 227,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 2",
+    "description": "두 번째 에디터 포커스 (Focus second editor)",
+    "category": "Navigation"
+  },
+  {
+    "id": 228,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Shift + Option + F",
+    "description": "코드 자동 정렬 (Format document)",
+    "category": "Formatting"
+  },
+  {
+    "id": 229,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Ctrl + G",
+    "description": "특정 라인으로 이동 (Go to line)",
+    "category": "Navigation"
+  },
+  {
+    "id": 230,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Shift + Option + Up",
+    "description": "라인 위로 복사 (Copy line up)",
+    "category": "Editing"
+  },
+  {
+    "id": 231,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Shift + Option + Down",
+    "description": "라인 아래로 복사 (Copy line down)",
+    "category": "Editing"
+  },
+  {
+    "id": 232,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Option + Up",
+    "description": "라인 위로 이동 (Move line up)",
+    "category": "Editing"
+  },
+  {
+    "id": 233,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Option + Down",
+    "description": "라인 아래로 이동 (Move line down)",
+    "category": "Editing"
+  },
+  {
+    "id": 234,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + K",
+    "description": "라인 삭제 (Delete line)",
+    "category": "Editing"
+  },
+  {
+    "id": 235,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + L",
+    "description": "라인 선택 (Select line)",
+    "category": "Selection"
+  },
+  {
+    "id": 236,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Option + Click",
+    "description": "멀티 커서 (Multi cursor)",
+    "category": "Selection"
+  },
+  {
+    "id": 237,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Cmd + .",
+    "description": "빠른 수정 (Quick fix)",
+    "category": "Editing"
+  },
+  {
+    "id": 238,
+    "tool": "VSCode",
+    "platform": "Mac",
+    "keyCombo": "Option + Shift + A",
+    "description": "블록 주석 토글 (Toggle block comment)",
+    "category": "Editing"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "새 통합 문서 (New Workbook)",
+    "category": "File"
+  },
+  {
+    "id": 2,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "새 통합 문서 (New Workbook)",
+    "category": "File"
+  },
+  {
+    "id": 3,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + S",
+    "description": "저장 (Save)",
+    "category": "File"
+  },
+  {
+    "id": 4,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + S",
+    "description": "저장 (Save)",
+    "category": "File"
+  },
+  {
+    "id": 5,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + C",
+    "description": "복사 (Copy)",
+    "category": "Edit"
+  },
+  {
+    "id": 6,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + C",
+    "description": "복사 (Copy)",
+    "category": "Edit"
+  },
+  {
+    "id": 7,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + V",
+    "description": "붙여넣기 (Paste)",
+    "category": "Edit"
+  },
+  {
+    "id": 8,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + V",
+    "description": "붙여넣기 (Paste)",
+    "category": "Edit"
+  },
+  {
+    "id": 9,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Z",
+    "description": "실행 취소 (Undo)",
+    "category": "Edit"
+  },
+  {
+    "id": 10,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Z",
+    "description": "실행 취소 (Undo)",
+    "category": "Edit"
+  },
+  {
+    "id": 11,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "F2",
+    "description": "셀 편집 (Edit Cell)",
+    "category": "Edit"
+  },
+  {
+    "id": 12,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "F2",
+    "description": "셀 편집 (Edit Cell)",
+    "category": "Edit"
+  },
+  {
+    "id": 13,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + A",
+    "description": "모두 선택 (Select All)",
+    "category": "Selection"
+  },
+  {
+    "id": 14,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + A",
+    "description": "모두 선택 (Select All)",
+    "category": "Selection"
+  },
+  {
+    "id": 15,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "굵게 (Bold)",
+    "category": "Format"
+  },
+  {
+    "id": 16,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "굵게 (Bold)",
+    "category": "Format"
+  },
+  {
+    "id": 17,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + I",
+    "description": "기울임꼴 (Italic)",
+    "category": "Format"
+  },
+  {
+    "id": 18,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + I",
+    "description": "기울임꼴 (Italic)",
+    "category": "Format"
+  },
+  {
+    "id": 19,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + U",
+    "description": "밑줄 (Underline)",
+    "category": "Format"
+  },
+  {
+    "id": 20,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + U",
+    "description": "밑줄 (Underline)",
+    "category": "Format"
+  },
+  {
+    "id": 21,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + $",
+    "description": "통화 형식 (Currency Format)",
+    "category": "Format"
+  },
+  {
+    "id": 22,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + $",
+    "description": "통화 형식 (Currency Format)",
+    "category": "Format"
+  },
+  {
+    "id": 23,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + %",
+    "description": "백분율 형식 (Percentage Format)",
+    "category": "Format"
+  },
+  {
+    "id": 24,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + %",
+    "description": "백분율 형식 (Percentage Format)",
+    "category": "Format"
+  },
+  {
+    "id": 25,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + T",
+    "description": "테이블 만들기 (Create Table)",
+    "category": "Insert"
+  },
+  {
+    "id": 26,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + T",
+    "description": "테이블 만들기 (Create Table)",
+    "category": "Insert"
+  },
+  {
+    "id": 27,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "찾기 (Find)",
+    "category": "Search"
+  },
+  {
+    "id": 28,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "찾기 (Find)",
+    "category": "Search"
+  },
+  {
+    "id": 29,
+    "tool": "Excel",
+    "platform": "Mac",
+    "keyCombo": "Cmd + H",
+    "description": "바꾸기 (Replace)",
+    "category": "Search"
+  },
+  {
+    "id": 30,
+    "tool": "Excel",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + H",
+    "description": "바꾸기 (Replace)",
+    "category": "Search"
+  }
+]

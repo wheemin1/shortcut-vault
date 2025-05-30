@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + T",
+    "description": "새 탭 열기 (Open new tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 2,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + T",
+    "description": "새 탭 열기 (Open new tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 3,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + W",
+    "description": "현재 탭 닫기 (Close current tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 4,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + W",
+    "description": "현재 탭 닫기 (Close current tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 5,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + T",
+    "description": "닫힌 탭 다시 열기 (Reopen closed tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 6,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + T",
+    "description": "닫힌 탭 다시 열기 (Reopen closed tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 7,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + R",
+    "description": "페이지 새로고침 (Reload page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 8,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + R",
+    "description": "페이지 새로고침 (Reload page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 9,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + R",
+    "description": "캐시 무시 새로고침 (Hard reload)",
+    "category": "Navigation"
+  },
+  {
+    "id": 10,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + R",
+    "description": "캐시 무시 새로고침 (Hard reload)",
+    "category": "Navigation"
+  },
+  {
+    "id": 11,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + L",
+    "description": "주소창 포커스 (Focus address bar)",
+    "category": "Navigation"
+  },
+  {
+    "id": 12,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + L",
+    "description": "주소창 포커스 (Focus address bar)",
+    "category": "Navigation"
+  },
+  {
+    "id": 13,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + D",
+    "description": "북마크 추가 (Add bookmark)",
+    "category": "Bookmarks"
+  },
+  {
+    "id": 14,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + D",
+    "description": "북마크 추가 (Add bookmark)",
+    "category": "Bookmarks"
+  },
+  {
+    "id": 15,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + D",
+    "description": "모든 탭 북마크 (Bookmark all tabs)",
+    "category": "Bookmarks"
+  },
+  {
+    "id": 16,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + D",
+    "description": "모든 탭 북마크 (Bookmark all tabs)",
+    "category": "Bookmarks"
+  },
+  {
+    "id": 17,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + B",
+    "description": "북마크바 토글 (Toggle bookmarks bar)",
+    "category": "Bookmarks"
+  },
+  {
+    "id": 18,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + B",
+    "description": "북마크바 토글 (Toggle bookmarks bar)",
+    "category": "Bookmarks"
+  },
+  {
+    "id": 19,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "페이지에서 찾기 (Find in page)",
+    "category": "Search"
+  },
+  {
+    "id": 20,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "페이지에서 찾기 (Find in page)",
+    "category": "Search"
+  },
+  {
+    "id": 21,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + G",
+    "description": "다음 찾기 (Find next)",
+    "category": "Search"
+  },
+  {
+    "id": 22,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + G",
+    "description": "다음 찾기 (Find next)",
+    "category": "Search"
+  },
+  {
+    "id": 23,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + G",
+    "description": "이전 찾기 (Find previous)",
+    "category": "Search"
+  },
+  {
+    "id": 24,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + G",
+    "description": "이전 찾기 (Find previous)",
+    "category": "Search"
+  },
+  {
+    "id": 25,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + I",
+    "description": "개발자 도구 열기 (Open developer tools)",
+    "category": "Developer"
+  },
+  {
+    "id": 26,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + I",
+    "description": "개발자 도구 열기 (Open developer tools)",
+    "category": "Developer"
+  },
+  {
+    "id": 27,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + J",
+    "description": "자바스크립트 콘솔 열기 (Open JavaScript console)",
+    "category": "Developer"
+  },
+  {
+    "id": 28,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + J",
+    "description": "자바스크립트 콘솔 열기 (Open JavaScript console)",
+    "category": "Developer"
+  },
+  {
+    "id": 29,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + C",
+    "description": "요소 검사 (Inspect element)",
+    "category": "Developer"
+  },
+  {
+    "id": 30,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + C",
+    "description": "요소 검사 (Inspect element)",
+    "category": "Developer"
+  },
+  {
+    "id": 31,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + Delete",
+    "description": "브라우징 데이터 삭제 (Clear browsing data)",
+    "category": "Privacy"
+  },
+  {
+    "id": 32,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + Delete",
+    "description": "브라우징 데이터 삭제 (Clear browsing data)",
+    "category": "Privacy"
+  },
+  {
+    "id": 33,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + N",
+    "description": "시크릿 창 열기 (Open incognito window)",
+    "category": "Privacy"
+  },
+  {
+    "id": 34,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + N",
+    "description": "시크릿 창 열기 (Open incognito window)",
+    "category": "Privacy"
+  },
+  {
+    "id": 35,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Y",
+    "description": "히스토리 페이지 열기 (Open history page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 36,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + H",
+    "description": "히스토리 페이지 열기 (Open history page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 37,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + O",
+    "description": "북마크 관리자 열기 (Open bookmark manager)",
+    "category": "Bookmarks"
+  },
+  {
+    "id": 38,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + O",
+    "description": "북마크 관리자 열기 (Open bookmark manager)",
+    "category": "Bookmarks"
+  },
+  {
+    "id": 39,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ,",
+    "description": "설정 페이지 열기 (Open settings)",
+    "category": "Navigation"
+  },
+  {
+    "id": 40,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Alt + F, S",
+    "description": "설정 페이지 열기 (Open settings)",
+    "category": "Navigation"
+  },
+  {
+    "id": 41,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 1-9",
+    "description": "특정 탭으로 이동 (Switch to specific tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 42,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 1-9",
+    "description": "특정 탭으로 이동 (Switch to specific tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 43,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 9",
+    "description": "마지막 탭으로 이동 (Switch to last tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 44,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 9",
+    "description": "마지막 탭으로 이동 (Switch to last tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 45,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + →",
+    "description": "다음 탭으로 이동 (Next tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 46,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Tab",
+    "description": "다음 탭으로 이동 (Next tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 47,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Option + ←",
+    "description": "이전 탭으로 이동 (Previous tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 48,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + Tab",
+    "description": "이전 탭으로 이동 (Previous tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 49,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + M",
+    "description": "창 최소화 (Minimize window)",
+    "category": "Window"
+  },
+  {
+    "id": 50,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Alt + Space, N",
+    "description": "창 최소화 (Minimize window)",
+    "category": "Window"
+  },
+  {
+    "id": 51,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Ctrl + F",
+    "description": "전체화면 모드 토글 (Toggle fullscreen)",
+    "category": "Window"
+  },
+  {
+    "id": 52,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "F11",
+    "description": "전체화면 모드 토글 (Toggle fullscreen)",
+    "category": "Window"
+  },
+  {
+    "id": 53,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + +",
+    "description": "확대 (Zoom in)",
+    "category": "Zoom"
+  },
+  {
+    "id": 54,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + +",
+    "description": "확대 (Zoom in)",
+    "category": "Zoom"
+  },
+  {
+    "id": 55,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + -",
+    "description": "축소 (Zoom out)",
+    "category": "Zoom"
+  },
+  {
+    "id": 56,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + -",
+    "description": "축소 (Zoom out)",
+    "category": "Zoom"
+  },
+  {
+    "id": 57,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 0",
+    "description": "기본 확대/축소 (Default zoom)",
+    "category": "Zoom"
+  },
+  {
+    "id": 58,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 0",
+    "description": "기본 확대/축소 (Default zoom)",
+    "category": "Zoom"
+  },
+  {
+    "id": 59,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ←",
+    "description": "뒤로 가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 60,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Alt + ←",
+    "description": "뒤로 가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 61,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + →",
+    "description": "앞으로 가기 (Go forward)",
+    "category": "Navigation"
+  },
+  {
+    "id": 62,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Alt + →",
+    "description": "앞으로 가기 (Go forward)",
+    "category": "Navigation"
+  },
+  {
+    "id": 63,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + P",
+    "description": "인쇄 (Print)",
+    "category": "File"
+  },
+  {
+    "id": 64,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + P",
+    "description": "인쇄 (Print)",
+    "category": "File"
+  },
+  {
+    "id": 65,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + S",
+    "description": "페이지 저장 (Save page)",
+    "category": "File"
+  },
+  {
+    "id": 66,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + S",
+    "description": "페이지 저장 (Save page)",
+    "category": "File"
+  },
+  {
+    "id": 67,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "새 창 열기 (Open new window)",
+    "category": "Window"
+  },
+  {
+    "id": 68,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "새 창 열기 (Open new window)",
+    "category": "Window"
+  },
+  {
+    "id": 68,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + T",
+    "description": "닫힌 탭 다시 열기 (Reopen closed tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 4,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + T",
+    "description": "Reopen closed tab",
+    "category": "Navigation"
+  },
+  {
+    "id": 5,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + L",
+    "description": "Jump to address bar",
+    "category": "Navigation"
+  },
+  {
+    "id": 6,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + L",
+    "description": "Jump to address bar",
+    "category": "Navigation"
+  },
+  {
+    "id": 7,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + R",
+    "description": "Reload page",
+    "category": "Navigation"
+  },
+  {
+    "id": 8,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + R",
+    "description": "Reload page",
+    "category": "Navigation"
+  },
+  {
+    "id": 9,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + N",
+    "description": "Open incognito window",
+    "category": "Navigation"
+  },
+  {
+    "id": 10,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + N",
+    "description": "Open incognito window",
+    "category": "Navigation"
+  },
+  {
+    "id": 11,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "F5",
+    "description": "페이지 새로 고치기 (Refresh page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 12,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + N",
+    "description": "새 창 열기 (Open new window)",
+    "category": "Navigation"
+  },
+  {
+    "id": 13,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "F6",
+    "description": "검색 주소 창으로 이동 (Jump to address bar)",
+    "category": "Navigation"
+  },
+  {
+    "id": 14,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + P",
+    "description": "페이지 인쇄 (Print page)",
+    "category": "File"
+  },
+  {
+    "id": 15,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + S",
+    "description": "페이지 저장 (Save page)",
+    "category": "File"
+  },
+  {
+    "id": 16,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + F",
+    "description": "검색 페이지에서 특정 단어 검색 (Find on page)",
+    "category": "Search"
+  },
+  {
+    "id": 17,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + C",
+    "description": "선택한 영역 복사 (Copy selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 18,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + V",
+    "description": "복사내용 붙여넣기 (Paste)",
+    "category": "Editing"
+  },
+  {
+    "id": 19,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Space",
+    "description": "페이지 아래로 스크롤 (Scroll down page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 20,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + 0",
+    "description": "화면 글자 크기 초기화 (Reset zoom)",
+    "category": "View"
+  },
+  {
+    "id": 21,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + W",
+    "description": "새 탭이나 창 닫기 (Close tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 22,
+    "tool": "Chrome",
+    "platform": "Windows",
+    "keyCombo": "Alt + Left Arrow",
+    "description": "뒤로가기 (Go back)",
+    "category": "Navigation"
+  },
+  {
+    "id": 23,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + R",
+    "description": "페이지 새로 고치기 (Refresh page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 24,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + N",
+    "description": "새 창 열기 (Open new window)",
+    "category": "Navigation"
+  },
+  {
+    "id": 25,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + L",
+    "description": "검색 주소 창으로 이동 (Jump to address bar)",
+    "category": "Navigation"
+  },
+  {
+    "id": 26,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + P",
+    "description": "페이지 인쇄 (Print page)",
+    "category": "File"
+  },
+  {
+    "id": 27,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + S",
+    "description": "페이지 저장 (Save page)",
+    "category": "File"
+  },
+  {
+    "id": 28,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + F",
+    "description": "검색 페이지에서 특정 단어 검색 (Find on page)",
+    "category": "Search"
+  },
+  {
+    "id": 29,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + C",
+    "description": "선택한 영역 복사 (Copy selection)",
+    "category": "Editing"
+  },
+  {
+    "id": 30,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + V",
+    "description": "복사내용 붙여넣기 (Paste)",
+    "category": "Editing"
+  },
+  {
+    "id": 31,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Space",
+    "description": "페이지 아래로 스크롤 (Scroll down page)",
+    "category": "Navigation"
+  },
+  {
+    "id": 32,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + 0",
+    "description": "화면 글자 크기 초기화 (Reset zoom)",
+    "category": "View"
+  },
+  {
+    "id": 33,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + W",
+    "description": "새 탭이나 창 닫기 (Close tab)",
+    "category": "Navigation"
+  },
+  {
+    "id": 34,
+    "tool": "Chrome",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Left Arrow",
+    "description": "뒤로가기 (Go back)",
+    "category": "Navigation"
+  }
+]

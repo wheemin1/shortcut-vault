@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "G then I",
+    "description": "이슈로 이동 (Go to Issues)",
+    "category": "Navigation"
+  },
+  {
+    "id": 2,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "G then I",
+    "description": "이슈로 이동 (Go to Issues)",
+    "category": "Navigation"
+  },
+  {
+    "id": 3,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "G then P",
+    "description": "Pull Request로 이동 (Go to Pull Requests)",
+    "category": "Navigation"
+  },
+  {
+    "id": 4,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "G then P",
+    "description": "Pull Request로 이동 (Go to Pull Requests)",
+    "category": "Navigation"
+  },
+  {
+    "id": 5,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "T",
+    "description": "파일 찾기 (Find File)",
+    "category": "Search"
+  },
+  {
+    "id": 6,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "T",
+    "description": "파일 찾기 (Find File)",
+    "category": "Search"
+  },
+  {
+    "id": 7,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "S",
+    "description": "검색창 포커스 (Focus Search)",
+    "category": "Search"
+  },
+  {
+    "id": 8,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "S",
+    "description": "검색창 포커스 (Focus Search)",
+    "category": "Search"
+  },
+  {
+    "id": 9,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "L",
+    "description": "라인으로 이동 (Go to Line)",
+    "category": "Navigation"
+  },
+  {
+    "id": 10,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "L",
+    "description": "라인으로 이동 (Go to Line)",
+    "category": "Navigation"
+  },
+  {
+    "id": 11,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "Y",
+    "description": "파일 URL 복사 (Copy Permalink)",
+    "category": "Copy"
+  },
+  {
+    "id": 12,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "Y",
+    "description": "파일 URL 복사 (Copy Permalink)",
+    "category": "Copy"
+  },
+  {
+    "id": 13,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "B",
+    "description": "파일 기록 보기 (View Blame)",
+    "category": "View"
+  },
+  {
+    "id": 14,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "B",
+    "description": "파일 기록 보기 (View Blame)",
+    "category": "View"
+  },
+  {
+    "id": 15,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "Cmd + K",
+    "description": "명령 팔레트 (Command Palette)",
+    "category": "Search"
+  },
+  {
+    "id": 16,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + K",
+    "description": "명령 팔레트 (Command Palette)",
+    "category": "Search"
+  },
+  {
+    "id": 17,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Enter",
+    "description": "코멘트 제출 (Submit Comment)",
+    "category": "Actions"
+  },
+  {
+    "id": 18,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Enter",
+    "description": "코멘트 제출 (Submit Comment)",
+    "category": "Actions"
+  },
+  {
+    "id": 19,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + Enter",
+    "description": "코멘트 제출 후 닫기 (Submit Comment and Close)",
+    "category": "Actions"
+  },
+  {
+    "id": 20,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + Enter",
+    "description": "코멘트 제출 후 닫기 (Submit Comment and Close)",
+    "category": "Actions"
+  },
+  {
+    "id": 21,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "R",
+    "description": "댓글 달기 (Quote Reply)",
+    "category": "Actions"
+  },
+  {
+    "id": 22,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "R",
+    "description": "댓글 달기 (Quote Reply)",
+    "category": "Actions"
+  },
+  {
+    "id": 23,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "굵게 (Bold)",
+    "category": "Text"
+  },
+  {
+    "id": 24,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "굵게 (Bold)",
+    "category": "Text"
+  },
+  {
+    "id": 25,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "Cmd + I",
+    "description": "기울임꼴 (Italic)",
+    "category": "Text"
+  },
+  {
+    "id": 26,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + I",
+    "description": "기울임꼴 (Italic)",
+    "category": "Text"
+  },
+  {
+    "id": 27,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "Cmd + E",
+    "description": "코드 블록 (Code Block)",
+    "category": "Text"
+  },
+  {
+    "id": 28,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "코드 블록 (Code Block)",
+    "category": "Text"
+  },
+  {
+    "id": 29,
+    "tool": "GitHub",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + P",
+    "description": "미리보기 토글 (Toggle Preview)",
+    "category": "View"
+  },
+  {
+    "id": 30,
+    "tool": "GitHub",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + P",
+    "description": "미리보기 토글 (Toggle Preview)",
+    "category": "View"
+  }
+]

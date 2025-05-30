@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + K",
+    "description": "빠른 검색 (Quick Switcher)",
+    "category": "Navigation"
+  },
+  {
+    "id": 2,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + K",
+    "description": "빠른 검색 (Quick Switcher)",
+    "category": "Navigation"
+  },
+  {
+    "id": 3,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + M",
+    "description": "마이크 음소거/해제 (Toggle Mute)",
+    "category": "Voice"
+  },
+  {
+    "id": 4,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + M",
+    "description": "마이크 음소거/해제 (Toggle Mute)",
+    "category": "Voice"
+  },
+  {
+    "id": 5,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + D",
+    "description": "스피커 음소거/해제 (Toggle Deafen)",
+    "category": "Voice"
+  },
+  {
+    "id": 6,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + D",
+    "description": "스피커 음소거/해제 (Toggle Deafen)",
+    "category": "Voice"
+  },
+  {
+    "id": 7,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Enter",
+    "description": "메시지 전송 (Send Message)",
+    "category": "Chat"
+  },
+  {
+    "id": 8,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Enter",
+    "description": "메시지 전송 (Send Message)",
+    "category": "Chat"
+  },
+  {
+    "id": 9,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + /",
+    "description": "명령어 검색 (Search Commands)",
+    "category": "Chat"
+  },
+  {
+    "id": 10,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + /",
+    "description": "명령어 검색 (Search Commands)",
+    "category": "Chat"
+  },
+  {
+    "id": 11,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + I",
+    "description": "기울임꼴 (Italic)",
+    "category": "Text"
+  },
+  {
+    "id": 12,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + I",
+    "description": "기울임꼴 (Italic)",
+    "category": "Text"
+  },
+  {
+    "id": 13,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + B",
+    "description": "굵게 (Bold)",
+    "category": "Text"
+  },
+  {
+    "id": 14,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + B",
+    "description": "굵게 (Bold)",
+    "category": "Text"
+  },
+  {
+    "id": 15,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + U",
+    "description": "밑줄 (Underline)",
+    "category": "Text"
+  },
+  {
+    "id": 16,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + U",
+    "description": "밑줄 (Underline)",
+    "category": "Text"
+  },
+  {
+    "id": 17,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Alt + ↑",
+    "description": "이전 채널 (Previous Channel)",
+    "category": "Navigation"
+  },
+  {
+    "id": 18,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Alt + ↑",
+    "description": "이전 채널 (Previous Channel)",
+    "category": "Navigation"
+  },
+  {
+    "id": 19,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Alt + ↓",
+    "description": "다음 채널 (Next Channel)",
+    "category": "Navigation"
+  },
+  {
+    "id": 20,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Alt + ↓",
+    "description": "다음 채널 (Next Channel)",
+    "category": "Navigation"
+  },
+  {
+    "id": 21,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + A",
+    "description": "읽지 않음으로 표시 (Mark as Unread)",
+    "category": "Chat"
+  },
+  {
+    "id": 22,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + Shift + A",
+    "description": "읽지 않음으로 표시 (Mark as Unread)",
+    "category": "Chat"
+  },
+  {
+    "id": 23,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + E",
+    "description": "이모지 편집 (Edit Emoji)",
+    "category": "Chat"
+  },
+  {
+    "id": 24,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + E",
+    "description": "이모지 편집 (Edit Emoji)",
+    "category": "Chat"
+  },
+  {
+    "id": 25,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + ↑",
+    "description": "마지막 메시지 편집 (Edit Last Message)",
+    "category": "Chat"
+  },
+  {
+    "id": 26,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + ↑",
+    "description": "마지막 메시지 편집 (Edit Last Message)",
+    "category": "Chat"
+  },
+  {
+    "id": 27,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Escape",
+    "description": "편집 취소 (Cancel Edit)",
+    "category": "Chat"
+  },
+  {
+    "id": 28,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Escape",
+    "description": "편집 취소 (Cancel Edit)",
+    "category": "Chat"
+  },
+  {
+    "id": 29,
+    "tool": "Discord",
+    "platform": "Mac",
+    "keyCombo": "Cmd + Shift + +",
+    "description": "확대 (Zoom In)",
+    "category": "View"
+  },
+  {
+    "id": 30,
+    "tool": "Discord",
+    "platform": "Windows",
+    "keyCombo": "Ctrl + +",
+    "description": "확대 (Zoom In)",
+    "category": "View"
+  }
+]
